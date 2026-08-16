@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,809 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,160 | 🐛 100 | 📅 2026-06-30
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -226,7 +226,7 @@
 
   *Xin Zhou , Dingkang Liang , Wei Xu, Xingkui Zhu ,Yihan Xu, Zhikang Zou, Xiang Bai.*
 
-  \[[Paper](https://arxiv.org/abs/2403.01439)]\[[Code](https://github.com/LMD0311/DAPT) ⭐ 173 | 🐛 1 | 🌐 Python | 📅 2024-10-11] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2403.01439)]\[[Code](https://github.com/LMD0311/DAPT) ⭐ 172 | 🐛 1 | 🌐 Python | 📅 2024-10-11] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
 
 * **\[27] MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation,** ArXiv 2024.
 
@@ -360,7 +360,7 @@
 
   *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and others.*
 
-  \[[Paper](https://arxiv.org/abs/2210.03117)]\[[Code](https://github.com/muzairkhattak/multimodal-prompt-learning) ⭐ 818 | 🐛 15 | 🌐 Python | 📅 2023-07-24] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2210.03117)]\[[Code](https://github.com/muzairkhattak/multimodal-prompt-learning) ⭐ 817 | 🐛 15 | 🌐 Python | 📅 2023-07-24] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
 
 * **\[18] Hierarchical Prompt Learning for Multi-Task Learning,** CVPR 2023.
 
@@ -608,7 +608,7 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,737 | 🐛 113 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,738 | 🐛 113 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
