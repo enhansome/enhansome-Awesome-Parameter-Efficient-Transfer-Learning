@@ -1,54 +1,9 @@
 {
-  "items": [
-    {
-      "description": "𝓐 𝓬𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷 𝓸𝓯 𝓻𝓮𝓼𝓸𝓾𝓻𝓬𝓮𝓼 𝓸𝓷 𝓹𝓪𝓻𝓪𝓶𝓮𝓽𝓮𝓻-𝓮𝓯𝓯𝓲𝓬𝓲𝓮𝓷𝓽 𝓽𝓻𝓪𝓷𝓼𝓯𝓮𝓻 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰.",
-      "items": [],
-      "title": "𝓐𝔀𝓮𝓼𝓸𝓶𝓮 𝓟𝓪𝓻𝓪𝓶𝓮𝓽𝓮𝓻-𝓔𝓯𝓯𝓲𝓬𝓲𝓮𝓷𝓽 𝓣𝓻𝓪𝓷𝓼𝓯𝓮𝓻 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰"
-    },
-    {
-      "description": "The abbreviation of the work.\nThe main explored task/application of the work.\nOther important information of the work.",
-      "items": [],
-      "title": "💬 Keywords"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🐌 Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Addition-based Tuning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Partial-based Tuning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🎯 Datasets of Visual PETL"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧒 Contribution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ":clap: Thanks to the above contributors for this excellent work！"
-    },
-    {
-      "description": "If you find our survey and repository useful for your research, please cite it below:",
-      "items": [],
-      "title": "⭐ Citation"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T01:49:51.789Z",
+    "last_updated": "2026-08-19T12:11:03.722Z",
     "original_repository": "synbol/Awesome-Parameter-Efficient-Transfer-Learning",
+    "original_repository_id": 570171943,
     "original_repository_sha": "1e3167b9ec80b2f9ff57126bf47f83d823ef1432",
     "enhanced_repository": "enhansome/enhansome-Awesome-Parameter-Efficient-Transfer-Learning",
     "enhanced_repository_description": null,
