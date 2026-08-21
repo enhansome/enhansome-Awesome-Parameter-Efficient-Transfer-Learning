@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,846 | 🐛 103 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,272 | 🐛 105 | 📅 2026-08-18
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -196,7 +196,7 @@
 
   *Mou, Chong and Wang, Xintao and Xie, Liangbin and Zhang, Jian and Qi, Zhongang and others.*
 
-  \[[Paper](https://arxiv.org/abs/2302.08453)]\[[Code](https://github.com/TencentARC/T2I-Adapter) ⭐ 3,805 | 🐛 96 | 🌐 Python | 📅 2024-06-21] ![](https://img.shields.io/badge/T2I_Adapter-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
+  \[[Paper](https://arxiv.org/abs/2302.08453)]\[[Code](https://github.com/TencentARC/T2I-Adapter) ⭐ 3,802 | 🐛 96 | 🌐 Python | 📅 2024-06-21] ![](https://img.shields.io/badge/T2I_Adapter-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 * **\[22] I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models,** Arxiv 2023.
 
@@ -264,7 +264,7 @@
 
   *Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim.*
 
-  \[[Paper](https://arxiv.org/abs/2203.12119)]\[[Code](https://github.com/kmnp/vpt) ⭐ 1,244 | 🐛 28 | 🌐 Python | 📅 2023-09-02] ![](https://img.shields.io/badge/VPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
+  \[[Paper](https://arxiv.org/abs/2203.12119)]\[[Code](https://github.com/kmnp/vpt) ⭐ 1,245 | 🐛 28 | 🌐 Python | 📅 2023-09-02] ![](https://img.shields.io/badge/VPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 * **\[2] Visual Prompt Tuning for Test-time Domain Adaptation,** Arxiv 2022.
 
@@ -608,7 +608,7 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,749 | 🐛 113 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,756 | 🐛 113 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
@@ -688,7 +688,7 @@
 
   *Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig.*
 
-  \[[Paper](https://arxiv.org/abs/2110.04366)]\[[Code](https://github.com/jxhe/unify-parameter-efficient-tuning) ⭐ 542 | 🐛 7 | 🌐 Python | 📅 2022-03-24] ![](https://img.shields.io/badge/Unified_View-orange)
+  \[[Paper](https://arxiv.org/abs/2110.04366)]\[[Code](https://github.com/jxhe/unify-parameter-efficient-tuning) ⭐ 541 | 🐛 7 | 🌐 Python | 📅 2022-03-24] ![](https://img.shields.io/badge/Unified_View-orange)
 
 * **\[2] Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** Arxiv 2023.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
