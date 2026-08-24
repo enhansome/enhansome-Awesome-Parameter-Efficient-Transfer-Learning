@@ -1,7 +1,1023 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[21] T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models, AAAI 2024.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602115048,
+                "language": "Python",
+                "last_commit": "2024-06-21T20:51:36Z",
+                "owner": "TencentARC",
+                "repo": "T2I-Adapter",
+                "stars": 3802
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[1] AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition, NeurIPS 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496634448,
+                "language": "Python",
+                "last_commit": "2022-09-16T00:55:50Z",
+                "owner": "ShoufaChen",
+                "repo": "AdaptFormer",
+                "stars": 390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[22] I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 737289841,
+                "language": null,
+                "last_commit": "2023-12-30T15:38:44Z",
+                "owner": "I2V-Adapter",
+                "repo": "I2V-Adapter-repo",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[14] VL-adapter: Parameter-efficient transfer learning for vision-and-language tasks, CVPR 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437963882,
+                "language": "Python",
+                "last_commit": "2022-12-18T06:43:10Z",
+                "owner": "ylsung",
+                "repo": "VL_adapter",
+                "stars": 212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2] Convolutional Bypasses are Better Vision Transformer Adapters, Arxiv 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 511924701,
+                "language": "Python",
+                "last_commit": "2023-08-01T03:12:58Z",
+                "owner": "JieShibo",
+                "repo": "PETL-ViT",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[26] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis, CVPR 2024.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 766012431,
+                "language": "Python",
+                "last_commit": "2024-10-11T12:17:00Z",
+                "owner": "LMD0311",
+                "repo": "DAPT",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[28] Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation, ICCV 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613895197,
+                "language": "Python",
+                "last_commit": "2025-06-26T06:07:43Z",
+                "owner": "kkakkkka",
+                "repo": "ETRIS",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[12] Compacter: Efficient Low-Rank Hypercomplex Adapter Layer, NeurIPS 2021.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375105846,
+                "language": "Python",
+                "last_commit": "2022-08-18T08:26:56Z",
+                "owner": "rabeehk",
+                "repo": "compacter",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[23] AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730647700,
+                "language": "Python",
+                "last_commit": "2025-01-13T09:26:59Z",
+                "owner": "csguoh",
+                "repo": "AdaptIR",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[3] ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning, NeurIPS 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550302069,
+                "language": "Python",
+                "last_commit": "2023-05-08T06:31:38Z",
+                "owner": "linziyi96",
+                "repo": "st-adapter",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[15] UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling, ICLR 2024.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 595438183,
+                "language": "Python",
+                "last_commit": "2024-01-27T14:43:31Z",
+                "owner": "RERV",
+                "repo": "UniAdapter",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[25] CAST: Cross-Attention in Space and Time for Video Action Recognition, NeurIPS 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 709674517,
+                "language": "Python",
+                "last_commit": "2023-12-28T02:41:42Z",
+                "owner": "KHU-VLL",
+                "repo": "CAST",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[24] A Closer Look at Parameter-Efficient Tuning in Diffusion Models, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625861994,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-06-05T15:18:16Z",
+                "owner": "Xiang-cd",
+                "repo": "unet-finetune",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[30] Sparse-Tuning: Adapting Vision Transformers with Efficient Fine-tuning and Inference, ArXiv 2024.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 804571207,
+                "language": "Python",
+                "last_commit": "2026-06-29T03:32:24Z",
+                "owner": "liuting20",
+                "repo": "Sparse-Tuning",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[17] Hydra: Multi-head Low-rank Adaptation for Parameter Efficient Fine-tuning, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 691070822,
+                "language": "Python",
+                "last_commit": "2023-10-15T06:52:29Z",
+                "owner": "extremebird",
+                "repo": "Hydra",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[30] PAVE: Patching and Adapting Video Large Language Models, CVPR 2025.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 955041251,
+                "language": "Python",
+                "last_commit": "2025-09-06T18:24:33Z",
+                "owner": "dragonlzm",
+                "repo": "PAVE",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[18] MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering, CVPR 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609559055,
+                "language": "Python",
+                "last_commit": "2023-07-11T13:30:58Z",
+                "owner": "jingjing12110",
+                "repo": "MixPHM",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[9] SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels, IJCV 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693142178,
+                "language": "Python",
+                "last_commit": "2023-09-18T12:40:57Z",
+                "owner": "showlab",
+                "repo": "SCT",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Adapter Tuning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[15] Learning to Prompt for Vision-Language Models, IJCV 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402092616,
+                "language": "Python",
+                "last_commit": "2024-05-20T16:58:40Z",
+                "owner": "KaiyangZhou",
+                "repo": "CoOp",
+                "stars": 2220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[1] Visual Prompt Tuning, ECCV 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 512333660,
+                "language": "Python",
+                "last_commit": "2023-09-02T18:32:58Z",
+                "owner": "KMnP",
+                "repo": "vpt",
+                "stars": 1245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[17] MaPLe: Multi-modal Prompt Learning, CVPR 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 546808022,
+                "language": "Python",
+                "last_commit": "2023-07-24T08:16:55Z",
+                "owner": "muzairkhattak",
+                "repo": "multimodal-prompt-learning",
+                "stars": 817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[21] Tokenize Anything via Prompting, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 731657905,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-12-11T06:36:49Z",
+                "owner": "baaivision",
+                "repo": "tokenize-anything",
+                "stars": 600
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[6] Visual Prompt Multi-Modal Tracking, CVPR 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616447314,
+                "language": "Python",
+                "last_commit": "2025-03-04T08:14:42Z",
+                "owner": "jiawen-zhu",
+                "repo": "ViPT",
+                "stars": 350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[10] Explicit Visual Prompting for Low-Level Structure Segmentations, CVPR 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612009483,
+                "language": "Python",
+                "last_commit": "2025-10-22T08:36:27Z",
+                "owner": "NiFangBaAGe",
+                "repo": "Explicit-Visual-Prompt",
+                "stars": 232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[11] P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting, NeurIPS 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 520871010,
+                "language": "Python",
+                "last_commit": "2023-07-26T07:36:57Z",
+                "owner": "wangzy22",
+                "repo": "P2P",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[5] Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models, ICCV 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620322588,
+                "language": "Python",
+                "last_commit": "2023-12-19T05:53:35Z",
+                "owner": "zyh16143998882",
+                "repo": "ICCV23-IDPT",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[26] E2VPT: An Effective and Efficient Approach for Visual Prompt Tuning, ICCV 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666624128,
+                "language": "Python",
+                "last_commit": "2024-01-19T07:16:05Z",
+                "owner": "ChengHan111",
+                "repo": "E2VPT",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[24] Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Tasks, NeurIPS 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 695028407,
+                "language": "Python",
+                "last_commit": "2023-11-11T09:45:04Z",
+                "owner": "haoyi-duan",
+                "repo": "DG-SCT",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[3] LPT: Long-tailed Prompt Tuning for Image Classification, ICLR 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 546104135,
+                "language": "Python",
+                "last_commit": "2022-10-05T15:59:10Z",
+                "owner": "DongSky",
+                "repo": "LPT",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[14] Understanding and Improving Visual Prompting: A Label-Mapping Perspective, CVPR 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 569039373,
+                "language": "Python",
+                "last_commit": "2023-09-17T19:58:55Z",
+                "owner": "OPTML-Group",
+                "repo": "ILM-VP",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[20] Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model, TMM 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601638747,
+                "language": "Python",
+                "last_commit": "2023-07-18T08:49:59Z",
+                "owner": "fanrena",
+                "repo": "DPT",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[27] DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval, AAAI 2024.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 757416984,
+                "language": "Python",
+                "last_commit": "2024-10-14T11:13:05Z",
+                "owner": "knightyxp",
+                "repo": "DGL",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[13] Unleashing the Power of Visual Prompting At the Pixel Level, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566585232,
+                "language": "Python",
+                "last_commit": "2024-04-30T15:49:39Z",
+                "owner": "UCSC-VLAA",
+                "repo": "EVP",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[9] ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575227684,
+                "language": "Python",
+                "last_commit": "2025-04-22T05:30:41Z",
+                "owner": "ShishuaiHu",
+                "repo": "ProSFDA",
+                "stars": 30
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prompt Tuning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[1] Prefix-Tuning: Optimizing Continuous Prompts for Generation, ACL 2021.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331739884,
+                "language": "Python",
+                "last_commit": "2024-04-26T16:47:52Z",
+                "owner": "XiangLi1999",
+                "repo": "PrefixTuning",
+                "stars": 961
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[5] A Unified Continual Learning Framework with General Parameter-Efficient Tuning, ICCV 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615125804,
+                "language": "Python",
+                "last_commit": "2024-10-09T07:41:51Z",
+                "owner": "gqk",
+                "repo": "LAE",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2] Towards a Unified View on Visual Parameter-Efficient Transfer Learning, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543614059,
+                "language": "Python",
+                "last_commit": "2022-10-13T13:25:45Z",
+                "owner": "bruceyo",
+                "repo": "V-PETL",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[3] Exploring Efficient Few-shot Adaptation for Vision Transformers, TMLR 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 530461305,
+                "language": "Python",
+                "last_commit": "2024-02-26T05:32:11Z",
+                "owner": "chmxu",
+                "repo": "eTT_TMLR2022",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[4] Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning, CVPR 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609299177,
+                "language": "Python",
+                "last_commit": "2023-03-03T20:16:11Z",
+                "owner": "andytu28",
+                "repo": "VQT",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prefix Tuning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[3] Vision transformer adapter for dense predictions. ICLR 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 492936445,
+                "language": "Python",
+                "last_commit": "2025-06-03T15:00:23Z",
+                "owner": "czczup",
+                "repo": "ViT-Adapter",
+                "stars": 1502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2] LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning, NeurIPS 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496456813,
+                "language": "Python",
+                "last_commit": "2023-01-20T16:19:36Z",
+                "owner": "ylsung",
+                "repo": "Ladder-Side-Tuning",
+                "stars": 241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[6] DTL: Disentangled Transfer Learning for Visual Recognition, AAAI 2024.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736521693,
+                "language": "Python",
+                "last_commit": "2025-07-15T11:23:58Z",
+                "owner": "heekhero",
+                "repo": "DTL",
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[8] Ladder Fine-tuning approach for SAM integrating complementary network, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655235912,
+                "language": "Python",
+                "last_commit": "2023-06-24T17:25:31Z",
+                "owner": "11yxk",
+                "repo": "SAM-LST",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[14] UniPT: Universal Parallel Tuning for Transfer Learning with Efficient Parameter and Memory, CVPR 2024.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683915164,
+                "language": "Python",
+                "last_commit": "2024-10-15T11:54:03Z",
+                "owner": "Paranioar",
+                "repo": "UniPT",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[13] BarLeRIa: An Efficient Tuning Framework for Referring Image Segmentation, ICLR 2024.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 770879242,
+                "language": "Python",
+                "last_commit": "2024-05-18T09:07:30Z",
+                "owner": "NastrondAd",
+                "repo": "BarLeRIa",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[15] SHERL: Synthesizing High Accuracy and Efficient Memory for Resource-Limited Transfer Learning, ECCV 2024.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 822861322,
+                "language": "Python",
+                "last_commit": "2024-10-15T11:54:02Z",
+                "owner": "Paranioar",
+                "repo": "SHERL",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Side Tuning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2] BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models. ACL 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335281652,
+                "language": "Python",
+                "last_commit": "2022-09-04T13:01:17Z",
+                "owner": "benzakenelad",
+                "repo": "BitFit",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[6] DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning, ICCV 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627940420,
+                "language": "Python",
+                "last_commit": "2023-09-10T23:44:38Z",
+                "owner": "mkshing",
+                "repo": "DiffFit-pytorch",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[8] Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning, ICCV 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614307237,
+                "language": "Python",
+                "last_commit": "2023-09-24T06:21:10Z",
+                "owner": "ziplab",
+                "repo": "SPT",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[4] AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks, NAACL 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 486564684,
+                "language": "Python",
+                "last_commit": "2022-05-04T07:50:37Z",
+                "owner": "Allen0307",
+                "repo": "AdapterBias",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[1] Do Better ImageNet Models Transfer Better?, CVPR 2019.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 255824027,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-07-03T04:56:58Z",
+                "owner": "lsh3163",
+                "repo": "Imagenet-Better",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Specification Tuning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[1] LoRA: Low-Rank Adaptation of Large Language Models. NeurIPS 2021.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378010497,
+                "language": "Python",
+                "last_commit": "2024-12-17T03:55:52Z",
+                "owner": "microsoft",
+                "repo": "LoRA",
+                "stars": 13764
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning, NeurIPS 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 550378597,
+                "language": "Python",
+                "last_commit": "2023-10-10T08:19:15Z",
+                "owner": "dongzelian",
+                "repo": "SSF",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[9] Towards Efficient Visual Adaption via Structural Re-parameterization, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 569156492,
+                "language": "Python",
+                "last_commit": "2024-04-18T05:18:59Z",
+                "owner": "luogen1996",
+                "repo": "RepAdapter",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[10]DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Models, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 728407847,
+                "language": "Python",
+                "last_commit": "2025-09-18T00:55:10Z",
+                "owner": "IBM",
+                "repo": "DiffuseKronA",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[7] Parameter-efficient Model Adaptation for Vision Transformers, AAAI 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574364441,
+                "language": "Python",
+                "last_commit": "2023-08-07T18:36:03Z",
+                "owner": "UCSB-AI",
+                "repo": "PEViT",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[12]PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning, CVPR 2025.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947020525,
+                "language": "Python",
+                "last_commit": "2025-10-31T15:38:25Z",
+                "owner": "songw-zju",
+                "repo": "PointLoRA",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[11]Expanding Sparse Tuning for Low Memory Usage, NeurIPS 2024.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 870045876,
+                "language": "Python",
+                "last_commit": "2025-11-08T02:06:46Z",
+                "owner": "ssfgunner",
+                "repo": "SNELL",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[8] DnA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment, ECCV 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 515638645,
+                "language": "Python",
+                "last_commit": "2022-07-19T15:26:16Z",
+                "owner": "VITA-Group",
+                "repo": "DnA",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[5] Aggregate, Decompose, and Fine-Tune: A Simple Yet Effective Factor-Tuning Method for Vision Transformer, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 687919506,
+                "language": "Python",
+                "last_commit": "2023-12-23T12:46:05Z",
+                "owner": "Dongping-Chen",
+                "repo": "EFFT-EFfective-Factor-Tuning",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reparameter Tuning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[1] Towards a Unified View of Parameter-Efficient Transfer Learning, ICLR 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379860337,
+                "language": "Python",
+                "last_commit": "2022-03-24T21:18:29Z",
+                "owner": "jxhe",
+                "repo": "unify-parameter-efficient-tuning",
+                "stars": 541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[3] Neural Prompt Search, Arxiv 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 500317631,
+                "language": "Python",
+                "last_commit": "2023-12-08T03:25:30Z",
+                "owner": "ZhangYuanhan-AI",
+                "repo": "NOAH",
+                "stars": 241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[5] A Unified Continual Learning Framework with General Parameter-Efficient Tuning, ICCV 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615125804,
+                "language": "Python",
+                "last_commit": "2024-10-09T07:41:51Z",
+                "owner": "gqk",
+                "repo": "LAE",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[2] Towards a Unified View on Visual Parameter-Efficient Transfer Learning, Arxiv 2023.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543614059,
+                "language": "Python",
+                "last_commit": "2022-10-13T13:25:45Z",
+                "owner": "bruceyo",
+                "repo": "V-PETL",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Unified Tuning"
+        }
+      ],
+      "title": "🐌 Papers"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T01:54:54.511Z",
+    "last_updated": "2026-08-24T14:21:01.953Z",
     "original_repository": "synbol/Awesome-Parameter-Efficient-Transfer-Learning",
     "original_repository_id": 570171943,
     "original_repository_sha": "1e3167b9ec80b2f9ff57126bf47f83d823ef1432",
