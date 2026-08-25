@@ -817,7 +817,7 @@
                 "last_commit": "2024-12-17T03:55:52Z",
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13764
+                "stars": 13766
               }
             },
             {
@@ -1017,7 +1017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:01.953Z",
+    "last_updated": "2026-08-25T01:49:03.018Z",
     "original_repository": "synbol/Awesome-Parameter-Efficient-Transfer-Learning",
     "original_repository_id": 570171943,
     "original_repository_sha": "1e3167b9ec80b2f9ff57126bf47f83d823ef1432",
