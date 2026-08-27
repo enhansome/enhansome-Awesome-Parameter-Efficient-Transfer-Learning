@@ -1017,9 +1017,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:35:54.531Z",
-    "original_repository": "synbol/Awesome-Parameter-Efficient-Transfer-Learning",
-    "original_repository_id": 570171943,
+    "last_updated": "2026-08-27T11:24:28.030Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 570171943,
+      "language": null,
+      "last_commit": "2025-12-10T09:08:55Z",
+      "owner": "synbol",
+      "repo": "Awesome-Parameter-Efficient-Transfer-Learning",
+      "stars": 589
+    },
     "original_repository_sha": "1e3167b9ec80b2f9ff57126bf47f83d823ef1432",
     "enhanced_repository": "enhansome/enhansome-Awesome-Parameter-Efficient-Transfer-Learning",
     "enhanced_repository_description": null,
