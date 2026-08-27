@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,942 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,338 | 🐛 105 | 📅 2026-08-21
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -264,7 +264,7 @@
 
   *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
 
-  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,220 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,221 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
 
 * **\[1] Visual Prompt Tuning,** ECCV 2022.
 
@@ -614,7 +614,7 @@
 
   *Dongze Lian, Daquan Zhou, Jiashi Feng, Xinchao Wang.*
 
-  \[[Paper](https://arxiv.org/abs/2210.08823)]\[[Code](https://github.com/dongzelian/SSF) ⭐ 198 | 🐛 9 | 🌐 Python | 📅 2023-10-10] ![](https://img.shields.io/badge/SSF-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/MLP_Tuning-orange)
+  \[[Paper](https://arxiv.org/abs/2210.08823)]\[[Code](https://github.com/dongzelian/SSF) ⭐ 199 | 🐛 9 | 🌐 Python | 📅 2023-10-10] ![](https://img.shields.io/badge/SSF-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/MLP_Tuning-orange)
 
 * **\[9] Towards Efficient Visual Adaption via Structural Re-parameterization,** Arxiv 2023.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

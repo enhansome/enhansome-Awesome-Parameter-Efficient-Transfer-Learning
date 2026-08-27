@@ -294,7 +294,7 @@
                 "last_commit": "2024-05-20T16:58:40Z",
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2220
+                "stars": 2221
               }
             },
             {
@@ -832,7 +832,7 @@
                 "last_commit": "2023-10-10T08:19:15Z",
                 "owner": "dongzelian",
                 "repo": "SSF",
-                "stars": 198
+                "stars": 199
               }
             },
             {
@@ -1017,7 +1017,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T01:55:15.250Z",
+    "last_updated": "2026-08-27T09:35:54.531Z",
     "original_repository": "synbol/Awesome-Parameter-Efficient-Transfer-Learning",
     "original_repository_id": 570171943,
     "original_repository_sha": "1e3167b9ec80b2f9ff57126bf47f83d823ef1432",
