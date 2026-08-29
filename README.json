@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "T2I-Adapter",
+                "homepage": null,
                 "id": 602115048,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-21T20:51:36Z",
+                "open_issues": 96,
                 "owner": "TencentARC",
                 "repo": "T2I-Adapter",
-                "stars": 3801
+                "stars": 3801,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -28,12 +33,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022] Implementation of \"AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition\"",
+                "homepage": "https://arxiv.org/abs/2205.13535",
                 "id": 496634448,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-16T00:55:50Z",
+                "open_issues": 21,
                 "owner": "ShoufaChen",
                 "repo": "AdaptFormer",
-                "stars": 390
+                "stars": 390,
+                "topics": [
+                  "adapter",
+                  "neurips-2022",
+                  "recognition",
+                  "vision-transformer",
+                  "visual-adapter"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -44,12 +60,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models",
+                "homepage": "https://i2v-adapter.github.io/",
                 "id": 737289841,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-30T15:38:44Z",
+                "open_issues": 5,
                 "owner": "I2V-Adapter",
                 "repo": "I2V-Adapter-repo",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -60,12 +81,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch code for \"VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks\" (CVPR2022)",
+                "homepage": null,
                 "id": 437963882,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-18T06:43:10Z",
+                "open_issues": 7,
                 "owner": "ylsung",
                 "repo": "VL_adapter",
-                "stars": 212
+                "stars": 212,
+                "topics": [
+                  "adapters",
+                  "prompt-tuning",
+                  "pytorch",
+                  "transformers",
+                  "vision-and-language",
+                  "vl-adapter"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -76,12 +109,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023 & AAAI 2023] Binary Adapters & FacT, [Tech report] Convpass",
+                "homepage": null,
                 "id": 511924701,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-01T03:12:58Z",
+                "open_issues": 4,
                 "owner": "JieShibo",
                 "repo": "PETL-ViT",
-                "stars": 202
+                "stars": 202,
+                "topics": [
+                  "parameter-efficient-tuning",
+                  "pytorch",
+                  "transfer-learning",
+                  "visual-prompting"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -92,12 +135,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis",
+                "homepage": "https://arxiv.org/abs/2403.01439",
                 "id": 766012431,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-11T12:17:00Z",
+                "open_issues": 1,
                 "owner": "LMD0311",
                 "repo": "DAPT",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "3d-point-clouds",
+                  "cvpr2024",
+                  "efficient-deep-learning",
+                  "point-cloud"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -108,12 +161,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV-2023] The official code of Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation",
+                "homepage": null,
                 "id": 613895197,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-26T06:07:43Z",
+                "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "ETRIS",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "machine-learning-algorithms",
+                  "multi-modal-fusion",
+                  "multi-modal-learning",
+                  "referring-image-segmentation",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -124,12 +190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 375105846,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-18T08:26:56Z",
+                "open_issues": 3,
                 "owner": "rabeehk",
                 "repo": "compacter",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -140,12 +211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS2024] Tune your restoration model with one 3090 GPU!",
+                "homepage": null,
                 "id": 730647700,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-13T09:26:59Z",
+                "open_issues": 1,
                 "owner": "csguoh",
                 "repo": "AdaptIR",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -156,12 +232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 550302069,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-08T06:31:38Z",
+                "open_issues": 9,
                 "owner": "linziyi96",
                 "repo": "st-adapter",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -172,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR2024] The official implementation of paper \"UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling\", by Haoyu Lu, Yuqi Huo, Guoxing Yang, Zhiwu Lu, Wei Zhan, Masayoshi Tomizuka, Mingyu Ding.",
+                "homepage": null,
                 "id": 595438183,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-01-27T14:43:31Z",
+                "open_issues": 0,
                 "owner": "RERV",
                 "repo": "UniAdapter",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -188,12 +274,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2023] Official implementation of the paper \"CAST: Cross-Attention in Space and Time for Video Action Recognition\"",
+                "homepage": null,
                 "id": 709674517,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-28T02:41:42Z",
+                "open_issues": 0,
                 "owner": "KHU-VLL",
                 "repo": "CAST",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "cross-attention",
+                  "epick-kitchens-100",
+                  "representation-learning",
+                  "spatio-temporal",
+                  "video",
+                  "video-action-recognition"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -204,12 +302,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fixed official code for  paper \"A Closer Look at Parameter-Efficient Tuning in Diffusion Models\".",
+                "homepage": null,
                 "id": 625861994,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-06-05T15:18:16Z",
+                "open_issues": 0,
                 "owner": "Xiang-cd",
                 "repo": "unet-finetune",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -220,12 +323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 804571207,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-29T03:32:24Z",
+                "open_issues": 1,
                 "owner": "liuting20",
                 "repo": "Sparse-Tuning",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -236,12 +344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 691070822,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-15T06:52:29Z",
+                "open_issues": 2,
                 "owner": "extremebird",
                 "repo": "Hydra",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -252,12 +365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo holds the implementation of PAVE: Patching and Adapting Video Large Language Models (CVPR2025)",
+                "homepage": null,
                 "id": 955041251,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-06T18:24:33Z",
+                "open_issues": 0,
                 "owner": "dragonlzm",
                 "repo": "PAVE",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -268,12 +386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] Pytorch Code of MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering",
+                "homepage": "https://arxiv.org/abs/2303.01239",
                 "id": 609559055,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-11T13:30:58Z",
+                "open_issues": 3,
                 "owner": "jingjing12110",
                 "repo": "MixPHM",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -284,12 +407,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[IJCV2023] Offical implementation of \"SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels\"",
+                "homepage": null,
                 "id": 693142178,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-18T12:40:57Z",
+                "open_issues": 2,
                 "owner": "showlab",
                 "repo": "SCT",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             }
@@ -307,12 +435,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prompt Learning for Vision-Language Models (IJCV'22, CVPR'22)",
+                "homepage": null,
                 "id": 402092616,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-20T16:58:40Z",
+                "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2221
+                "stars": 2221,
+                "topics": [
+                  "foundation-models",
+                  "multimodal-learning",
+                  "prompt-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -323,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "❄️🔥 Visual Prompt Tuning [ECCV 2022] https://arxiv.org/abs/2203.12119",
+                "homepage": null,
                 "id": 512333660,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-02T18:32:58Z",
+                "open_issues": 28,
                 "owner": "KMnP",
                 "repo": "vpt",
-                "stars": 1244
+                "stars": 1244,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -339,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] Official repository of paper titled \"MaPLe: Multi-modal Prompt Learning\". ",
+                "homepage": "https://muzairkhattak.github.io/multimodal-prompt-learning/",
                 "id": 546808022,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-24T08:16:55Z",
+                "open_issues": 15,
                 "owner": "muzairkhattak",
                 "repo": "multimodal-prompt-learning",
-                "stars": 818
+                "stars": 818,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -355,12 +502,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Tokenize Anything via Prompting",
+                "homepage": null,
                 "id": 731657905,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-11T06:36:49Z",
+                "open_issues": 12,
                 "owner": "baaivision",
                 "repo": "tokenize-anything",
-                "stars": 600
+                "stars": 600,
+                "topics": [
+                  "foundation-models",
+                  "multimodal",
+                  "promptable",
+                  "representation-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -371,12 +528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR23] Visual Prompt Multi-Modal Tracking",
+                "homepage": null,
                 "id": 616447314,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-04T08:14:42Z",
+                "open_issues": 12,
                 "owner": "jiawen-zhu",
                 "repo": "ViPT",
-                "stars": 350
+                "stars": 350,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -387,12 +549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023 & TPAMI 2025] Explicit Visual Prompting for Low-Level Structure Segmentations",
+                "homepage": "https://nifangbaage.github.io/Explicit-Visual-Prompt/",
                 "id": 612009483,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-10-22T08:36:27Z",
+                "open_issues": 13,
                 "owner": "NiFangBaAGe",
                 "repo": "Explicit-Visual-Prompt",
-                "stars": 232
+                "stars": 232,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -403,12 +570,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2022 Spotlight] P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting",
+                "homepage": "https://p2p.ivg-research.xyz",
                 "id": 520871010,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-26T07:36:57Z",
+                "open_issues": 3,
                 "owner": "wangzy22",
                 "repo": "P2P",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -419,12 +591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code for the paper \"Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models\" (ICCV'23).",
+                "homepage": null,
                 "id": 620322588,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-19T05:53:35Z",
+                "open_issues": 5,
                 "owner": "zyh16143998882",
                 "repo": "ICCV23-IDPT",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -435,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch implementation of \"E2VPT: An Effective and Efficient Approach for Visual Prompt Tuning\". (ICCV2023)",
+                "homepage": null,
                 "id": 666624128,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-19T07:16:05Z",
+                "open_issues": 2,
                 "owner": "ChengHan111",
                 "repo": "E2VPT",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -451,12 +633,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeurIPS'2023 official implementation code",
+                "homepage": null,
                 "id": 695028407,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-11T09:45:04Z",
+                "open_issues": 3,
                 "owner": "haoyi-duan",
                 "repo": "DG-SCT",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "multimodal-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -467,12 +656,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 546104135,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-10-05T15:59:10Z",
+                "open_issues": 2,
                 "owner": "DongSky",
                 "repo": "LPT",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -483,12 +677,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR23] \"Understanding and Improving Visual Prompting: A Label-Mapping Perspective\" by Aochuan Chen, Yuguang Yao, Pin-Yu Chen, Yihua Zhang, and Sijia Liu",
+                "homepage": null,
                 "id": 569039373,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-17T19:58:55Z",
+                "open_issues": 0,
                 "owner": "OPTML-Group",
                 "repo": "ILM-VP",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -499,12 +698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of paper Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model. If you find our code or paper useful, please give us a citation. ",
+                "homepage": null,
                 "id": 601638747,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-18T08:49:59Z",
+                "open_issues": 0,
                 "owner": "fanrena",
                 "repo": "DPT",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -515,12 +719,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2024] DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval. ",
+                "homepage": "https://arxiv.org/abs/2401.10588v1",
                 "id": 757416984,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-14T11:13:05Z",
+                "open_issues": 1,
                 "owner": "knightyxp",
                 "repo": "DGL",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "cross-modal-learning",
+                  "cross-modal-retrieval",
+                  "parameter-efficient-tuning",
+                  "prompt-tuning",
+                  "video-language-understanding",
+                  "video-text-retrieval"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -531,12 +747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TMLR'24] This repository includes the official implementation our paper \"Unleashing the Power of Visual Prompting At the Pixel Level\"",
+                "homepage": null,
                 "id": 566585232,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-30T15:49:39Z",
+                "open_issues": 0,
                 "owner": "UCSC-VLAA",
                 "repo": "EVP",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -547,12 +768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for [Pattern Recognition] Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation.",
+                "homepage": null,
                 "id": 575227684,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-22T05:30:41Z",
+                "open_issues": 0,
                 "owner": "ShishuaiHu",
                 "repo": "ProSFDA",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             }
@@ -570,12 +796,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prefix-Tuning: Optimizing Continuous Prompts for Generation",
+                "homepage": null,
                 "id": 331739884,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-26T16:47:52Z",
+                "open_issues": 35,
                 "owner": "XiangLi1999",
                 "repo": "PrefixTuning",
-                "stars": 961
+                "stars": 961,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -586,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] A Unified Continual Learning Framework with General Parameter-Efficient Tuning",
+                "homepage": "https://arxiv.org/abs/2303.10070",
                 "id": 615125804,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-09T07:41:51Z",
+                "open_issues": 0,
                 "owner": "gqk",
                 "repo": "LAE",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -602,12 +838,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Towards a Unified View on Visual Parameter-Efficient Transfer Learning",
+                "homepage": null,
                 "id": 543614059,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-13T13:25:45Z",
+                "open_issues": 0,
                 "owner": "bruceyo",
                 "repo": "V-PETL",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -618,12 +859,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 530461305,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-26T05:32:11Z",
+                "open_issues": 0,
                 "owner": "chmxu",
                 "repo": "eTT_TMLR2022",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -634,12 +880,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 609299177,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-03-03T20:16:11Z",
+                "open_issues": 3,
                 "owner": "andytu28",
                 "repo": "VQT",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             }
@@ -657,12 +908,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2023 Spotlight] Vision Transformer Adapter for Dense Predictions",
+                "homepage": "https://arxiv.org/abs/2205.08534",
                 "id": 492936445,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-03T15:00:23Z",
+                "open_issues": 83,
                 "owner": "czczup",
                 "repo": "ViT-Adapter",
-                "stars": 1503
+                "stars": 1503,
+                "topics": [
+                  "adapter",
+                  "object-detection",
+                  "semantic-segmentation",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -673,12 +934,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch codes for \"LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning\"",
+                "homepage": null,
                 "id": 496456813,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-20T16:19:36Z",
+                "open_issues": 6,
                 "owner": "ylsung",
                 "repo": "Ladder-Side-Tuning",
-                "stars": 241
+                "stars": 241,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -689,12 +955,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is the official implementation of \"DTL: Disentangled Transfer Learning for Visual Recognition\", which is accepted by AAAI 2024.",
+                "homepage": null,
                 "id": 736521693,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-15T11:23:58Z",
+                "open_issues": 1,
                 "owner": "heekhero",
                 "repo": "DTL",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -705,12 +976,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of paper Ladder Fine-tuning approach for SAM integrating complementary network.",
+                "homepage": null,
                 "id": 655235912,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-24T17:25:31Z",
+                "open_issues": 5,
                 "owner": "11yxk",
                 "repo": "SAM-LST",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "fine-tuning",
+                  "foundation-model",
+                  "multi-organ-segmentation",
+                  "segment-anything"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -721,12 +1002,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2024] The code of \"UniPT: Universal Parallel Tuning for Transfer Learning with Efficient Parameter and Memory\"",
+                "homepage": null,
                 "id": 683915164,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-15T11:54:03Z",
+                "open_issues": 0,
                 "owner": "Paranioar",
                 "repo": "UniPT",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "cross-modal",
+                  "memory-efficient-learning",
+                  "memory-efficient-tuning",
+                  "parameter-efficient-fine-tuning",
+                  "parameter-efficient-learning",
+                  "parameter-efficient-tuning",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -737,12 +1031,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official code for ICLR 2024 paper: BarLeRIa: An Efficient Tuning Framework for Referring Image Segmentation",
+                "homepage": null,
                 "id": 770879242,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-18T09:07:30Z",
+                "open_issues": 1,
                 "owner": "NastrondAd",
                 "repo": "BarLeRIa",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -753,12 +1052,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2024] The code of \"SHERL: Synthesizing High Accuracy and Efficient Memory for Resource-Limited Transfer Learning\"",
+                "homepage": null,
                 "id": 822861322,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-15T11:54:02Z",
+                "open_issues": 0,
                 "owner": "Paranioar",
                 "repo": "SHERL",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "cross-modal",
+                  "memory-efficient-learning",
+                  "memory-efficient-tuning",
+                  "parameter-efficient-fine-tuning",
+                  "parameter-efficient-learning",
+                  "parameter-efficient-tuning",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             }
@@ -776,12 +1088,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models",
+                "homepage": null,
                 "id": 335281652,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-04T13:01:17Z",
+                "open_issues": 0,
                 "owner": "benzakenelad",
                 "repo": "BitFit",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -792,12 +1109,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of \"DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning\"",
+                "homepage": "https://arxiv.org/abs/2304.06648",
                 "id": 627940420,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-10T23:44:38Z",
+                "open_issues": 6,
                 "owner": "mkshing",
                 "repo": "DiffFit-pytorch",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -808,12 +1130,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023 oral] This is the official repository for our paper: ''Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning''.",
+                "homepage": null,
                 "id": 614307237,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-24T06:21:10Z",
+                "open_issues": 9,
                 "owner": "ziplab",
                 "repo": "SPT",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "adapter",
+                  "lora",
+                  "parameter-efficient-fine-tuning",
+                  "peft",
+                  "prompt-tuning",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -824,12 +1158,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the Findings of NAACL 2022(Long Paper): AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks",
+                "homepage": null,
                 "id": 486564684,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-05-04T07:50:37Z",
+                "open_issues": 2,
                 "owner": "Allen0307",
                 "repo": "AdapterBias",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "adapter",
+                  "nlp",
+                  "parameter-efficient-tuning",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -840,12 +1184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Do Better ImageNet Models Transfer Better?",
+                "homepage": null,
                 "id": 255824027,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-07-03T04:56:58Z",
+                "open_issues": 0,
                 "owner": "lsh3163",
                 "repo": "Imagenet-Better",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             }
@@ -863,12 +1212,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for loralib, an implementation of \"LoRA: Low-Rank Adaptation of Large Language Models\"",
+                "homepage": "https://arxiv.org/abs/2106.09685",
                 "id": 378010497,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-17T03:55:52Z",
+                "open_issues": 113,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13769
+                "stars": 13769,
+                "topics": [
+                  "adaptation",
+                  "deberta",
+                  "deep-learning",
+                  "gpt-2",
+                  "gpt-3",
+                  "language-model",
+                  "lora",
+                  "low-rank",
+                  "pytorch",
+                  "roberta"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -879,12 +1244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'22] This is an official implementation for \"Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning\".",
+                "homepage": "https://arxiv.org/pdf/2210.08823.pdf",
                 "id": 550378597,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-10T08:19:15Z",
+                "open_issues": 9,
                 "owner": "dongzelian",
                 "repo": "SSF",
-                "stars": 199
+                "stars": 199,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -895,12 +1265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Towards Efficient Visual Adaption via Structural Re-parameterization\".",
+                "homepage": null,
                 "id": 569156492,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-18T05:18:59Z",
+                "open_issues": 8,
                 "owner": "luogen1996",
                 "repo": "RepAdapter",
-                "stars": 189
+                "stars": 189,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -911,12 +1286,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Models",
+                "homepage": "https://diffusekrona.github.io/",
                 "id": 728407847,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-18T00:55:10Z",
+                "open_issues": 1,
                 "owner": "IBM",
                 "repo": "DiffuseKronA",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "diffusion-models",
+                  "efficiency",
+                  "personalization",
+                  "text-to-image"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -927,12 +1312,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of AAAI 2023 paper \"Parameter-efficient Model Adaptation for Vision Transformers\"",
+                "homepage": null,
                 "id": 574364441,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-07T18:36:03Z",
+                "open_issues": 10,
                 "owner": "UCSB-AI",
                 "repo": "PEViT",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "fine-tuning",
+                  "image-classification",
+                  "parameter-efficient-tuning",
+                  "pytorch",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -943,12 +1339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of \"PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning\" (CVPR 2025)",
+                "homepage": null,
                 "id": 947020525,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-31T15:38:25Z",
+                "open_issues": 2,
                 "owner": "songw-zju",
                 "repo": "PointLoRA",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -959,12 +1360,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] This is the official repository for our paper: ''Expanding Sparse Tuning for Low Memory Usage''.",
+                "homepage": null,
                 "id": 870045876,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-08T02:06:46Z",
+                "open_issues": 0,
                 "owner": "ssfgunner",
                 "repo": "SNELL",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "lora",
+                  "parameter-efficient-fine-tuning",
+                  "peft",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -975,12 +1386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] \"Improve Few-Shot Transfer Learning with Low-Rank Decompose and Align\" by Ziyu Jiang, Tianlong Chen, Xuxi Chen, Yu Cheng, Luowei Zhou, Lu Yuan, Ahmed Awadallah, Zhangyang Wang",
+                "homepage": null,
                 "id": 515638645,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-07-19T15:26:16Z",
+                "open_issues": 0,
                 "owner": "VITA-Group",
                 "repo": "DnA",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -991,12 +1407,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code of EFFT (arXiv:2311.06749)",
+                "homepage": null,
                 "id": 687919506,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-23T12:46:05Z",
+                "open_issues": 0,
                 "owner": "Dongping-Chen",
                 "repo": "EFFT-EFfective-Factor-Tuning",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "deep-learning",
+                  "peft",
+                  "pretrained-models",
+                  "pytorch",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             }
@@ -1014,12 +1441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of paper \"Towards a Unified View of Parameter-Efficient Transfer Learning\" (ICLR 2022)",
+                "homepage": null,
                 "id": 379860337,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-24T21:18:29Z",
+                "open_issues": 7,
                 "owner": "jxhe",
                 "repo": "unify-parameter-efficient-tuning",
-                "stars": 541
+                "stars": 541,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -1030,12 +1462,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TPAMI] Searching prompt modules for parameter-efficient transfer learning.",
+                "homepage": null,
                 "id": 500317631,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-08T03:25:30Z",
+                "open_issues": 9,
                 "owner": "ZhangYuanhan-AI",
                 "repo": "NOAH",
-                "stars": 241
+                "stars": 241,
+                "topics": [
+                  "deep-learning",
+                  "domain-generalization",
+                  "pre-trained-model",
+                  "prompt-tuning",
+                  "pytorch",
+                  "transfer-learning",
+                  "visual-prompting"
+                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -1046,12 +1491,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] A Unified Continual Learning Framework with General Parameter-Efficient Tuning",
+                "homepage": "https://arxiv.org/abs/2303.10070",
                 "id": 615125804,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-09T07:41:51Z",
+                "open_issues": 0,
                 "owner": "gqk",
                 "repo": "LAE",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -1062,12 +1512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Towards a Unified View on Visual Parameter-Efficient Transfer Learning",
+                "homepage": null,
                 "id": 543614059,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-13T13:25:45Z",
+                "open_issues": 0,
                 "owner": "bruceyo",
                 "repo": "V-PETL",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             }
@@ -1081,15 +1536,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:17:52.872Z",
+    "last_updated": "2026-08-29T04:43:46.025Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
+      "homepage": null,
       "id": 570171943,
       "language": null,
+      "license": null,
       "last_commit": "2025-12-10T09:08:55Z",
+      "open_issues": 14,
       "owner": "synbol",
       "repo": "Awesome-Parameter-Efficient-Transfer-Learning",
-      "stars": 589
+      "stars": 589,
+      "topics": [
+        "awesome-list",
+        "computer-vision",
+        "deep-learning",
+        "parameter-efficient-fine-tuning",
+        "pre-trained-models",
+        "survey",
+        "transfer-learning",
+        "transformer"
+      ]
     },
     "original_repository_sha": "1e3167b9ec80b2f9ff57126bf47f83d823ef1432",
     "enhanced_repository": "enhansome/enhansome-Awesome-Parameter-Efficient-Transfer-Learning",
