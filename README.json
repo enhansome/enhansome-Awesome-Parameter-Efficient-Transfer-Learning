@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2221,
+                "stars": 2222,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -917,7 +917,7 @@
                 "open_issues": 83,
                 "owner": "czczup",
                 "repo": "ViT-Adapter",
-                "stars": 1503,
+                "stars": 1502,
                 "topics": [
                   "adapter",
                   "object-detection",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T06:59:31.745Z",
+    "last_updated": "2026-08-30T05:18:23.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
