@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2222,
+                "stars": 2221,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -826,7 +826,7 @@
                 "open_issues": 0,
                 "owner": "gqk",
                 "repo": "LAE",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -917,7 +917,7 @@
                 "open_issues": 83,
                 "owner": "czczup",
                 "repo": "ViT-Adapter",
-                "stars": 1502,
+                "stars": 1503,
                 "topics": [
                   "adapter",
                   "object-detection",
@@ -1500,7 +1500,7 @@
                 "open_issues": 0,
                 "owner": "gqk",
                 "repo": "LAE",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:18:23.133Z",
+    "last_updated": "2026-08-31T05:26:00.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
