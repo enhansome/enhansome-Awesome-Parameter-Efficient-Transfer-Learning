@@ -1221,7 +1221,7 @@
                 "open_issues": 113,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13768,
+                "stars": 13769,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T05:26:00.540Z",
+    "last_updated": "2026-09-01T04:59:59.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
