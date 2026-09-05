@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "TencentARC",
                 "repo": "T2I-Adapter",
-                "stars": 3800,
+                "stars": 3799,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1118,7 +1118,7 @@
                 "open_issues": 6,
                 "owner": "mkshing",
                 "repo": "DiffFit-pytorch",
-                "stars": 97,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T04:23:33.791Z",
+    "last_updated": "2026-09-05T04:19:01.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
