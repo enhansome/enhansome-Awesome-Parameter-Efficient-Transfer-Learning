@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "TencentARC",
                 "repo": "T2I-Adapter",
-                "stars": 3799,
+                "stars": 3798,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -170,7 +170,7 @@
                 "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "ETRIS",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2221,
+                "stars": 2222,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -805,7 +805,7 @@
                 "open_issues": 35,
                 "owner": "XiangLi1999",
                 "repo": "PrefixTuning",
-                "stars": 961,
+                "stars": 959,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13778,
+                "stars": 13781,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T04:29:56.096Z",
+    "last_updated": "2026-09-08T04:27:52.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
