@@ -144,7 +144,7 @@
                 "open_issues": 1,
                 "owner": "LMD0311",
                 "repo": "DAPT",
-                "stars": 172,
+                "stars": 171,
                 "topics": [
                   "3d-point-clouds",
                   "cvpr2024",
@@ -241,7 +241,7 @@
                 "open_issues": 9,
                 "owner": "linziyi96",
                 "repo": "st-adapter",
-                "stars": 89,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2222,
+                "stars": 2223,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -490,7 +490,7 @@
                 "open_issues": 15,
                 "owner": "muzairkhattak",
                 "repo": "multimodal-prompt-learning",
-                "stars": 818,
+                "stars": 819,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -917,7 +917,7 @@
                 "open_issues": 83,
                 "owner": "czczup",
                 "repo": "ViT-Adapter",
-                "stars": 1503,
+                "stars": 1502,
                 "topics": [
                   "adapter",
                   "object-detection",
@@ -1011,7 +1011,7 @@
                 "open_issues": 0,
                 "owner": "Paranioar",
                 "repo": "UniPT",
-                "stars": 71,
+                "stars": 73,
                 "topics": [
                   "cross-modal",
                   "memory-efficient-learning",
@@ -1061,7 +1061,7 @@
                 "open_issues": 0,
                 "owner": "Paranioar",
                 "repo": "SHERL",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "cross-modal",
                   "memory-efficient-learning",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T04:27:52.590Z",
+    "last_updated": "2026-09-09T04:33:59.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",

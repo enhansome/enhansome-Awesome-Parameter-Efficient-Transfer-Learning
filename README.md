@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,032 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,320 | 🐛 106 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -106,7 +106,7 @@
 
   *Xin Zhou , Dingkang Liang , Wei Xu, Xingkui Zhu ,Yihan Xu, Zhikang Zou, Xiang Bai.*
 
-  \[[Paper](https://arxiv.org/abs/2403.01439)]\[[Code](https://github.com/LMD0311/DAPT) ⭐ 172 | 🐛 1 | 🌐 Python | 📅 2024-10-11] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2403.01439)]\[[Code](https://github.com/LMD0311/DAPT) ⭐ 171 | 🐛 1 | 🌐 Python | 📅 2024-10-11] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
 
 * **\[28] Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation,** ICCV 2023.
 
@@ -130,7 +130,7 @@
 
   *Pan, Junting and Lin, Ziyi and Zhu, Xiatian and Shao, Jing and Li, Hongsheng.*
 
-  \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a92e9165b22d4456fc6d87236e04c266-Abstract-Conference.html)]\[[Code](https://github.com/linziyi96/ST-Adapter) ⭐ 89 | 🐛 9 | 🌐 Python | 📅 2023-05-08] ![](https://img.shields.io/badge/ST_Adapter-blue) ![](https://img.shields.io/badge/Video_Recognition-green)  ![](https://img.shields.io/badge/Adapter_Design-orange)
+  \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a92e9165b22d4456fc6d87236e04c266-Abstract-Conference.html)]\[[Code](https://github.com/linziyi96/ST-Adapter) ⭐ 88 | 🐛 9 | 🌐 Python | 📅 2023-05-08] ![](https://img.shields.io/badge/ST_Adapter-blue) ![](https://img.shields.io/badge/Video_Recognition-green)  ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 * **\[15] UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling,** ICLR 2024.
 
@@ -264,7 +264,7 @@
 
   *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
 
-  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,222 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,223 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
 
 * **\[1] Visual Prompt Tuning,** ECCV 2022.
 
@@ -276,7 +276,7 @@
 
   *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and others.*
 
-  \[[Paper](https://arxiv.org/abs/2210.03117)]\[[Code](https://github.com/muzairkhattak/multimodal-prompt-learning) ⭐ 818 | 🐛 15 | 🌐 Python | 📅 2023-07-24] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2210.03117)]\[[Code](https://github.com/muzairkhattak/multimodal-prompt-learning) ⭐ 819 | 🐛 15 | 🌐 Python | 📅 2023-07-24] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
 
 * **\[21] Tokenize Anything via Prompting,** Arxiv 2023.
 
@@ -460,7 +460,7 @@
 
   *Chen, Zhe and Duan, Yuchen and Wang, Wenhai and He, Junjun and Lu, Tong and Dai, Jifeng and Qiao, Yu.*
 
-  \[[Paper](https://arxiv.org/abs/2205.08534)]\[[Code](https://github.com/czczup/ViT-Adapter) ⭐ 1,503 | 🐛 83 | 🌐 Python | 📅 2025-06-03] ![](https://img.shields.io/badge/ViT_Adapter-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2205.08534)]\[[Code](https://github.com/czczup/ViT-Adapter) ⭐ 1,502 | 🐛 83 | 🌐 Python | 📅 2025-06-03] ![](https://img.shields.io/badge/ViT_Adapter-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param_Efficient-orange)
 
 * **\[2] LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning,** NeurIPS 2022.
 
@@ -484,7 +484,7 @@
 
   *Haiwen Diao, Bo Wan, Ying Zhang, Xu Jia, Huchuan Lu, Long Chen.*
 
-  \[[Paper](https://arxiv.org/abs/2308.14316)] \[[Code](https://github.com/Paranioar/UniPT) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2024-10-15] ![](https://img.shields.io/badge/UniPT-blue) ![](https://img.shields.io/badge/Vision_Language_&_GLUE_Task-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2308.14316)] \[[Code](https://github.com/Paranioar/UniPT) ⭐ 73 | 🐛 0 | 🌐 Python | 📅 2024-10-15] ![](https://img.shields.io/badge/UniPT-blue) ![](https://img.shields.io/badge/Vision_Language_&_GLUE_Task-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
 
 * **\[13] BarLeRIa: An Efficient Tuning Framework for Referring Image Segmentation,** ICLR 2024.
 
@@ -496,7 +496,7 @@
 
   *Haiwen Diao, Bo Wan, Xu Jia, Yunzhi Zhuge, Ying Zhang, Huchuan Lu, Long Chen.*
 
-  \[[Paper](https://arxiv.org/abs/2407.07523)] \[[Code](https://github.com/Paranioar/SHERL) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2024-10-15] ![](https://img.shields.io/badge/SHERL-blue) ![](https://img.shields.io/badge/Vision_Language_&_GLUE_Task-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2407.07523)] \[[Code](https://github.com/Paranioar/SHERL) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-10-15] ![](https://img.shields.io/badge/SHERL-blue) ![](https://img.shields.io/badge/Vision_Language_&_GLUE_Task-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
 
 * **\[1] Side-Tuning: A Baseline for Network Adaptation via Additive Side Networks,** ECCV 2020.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
