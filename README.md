@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,320 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,593 | 🐛 106 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -264,13 +264,13 @@
 
   *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
 
-  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,223 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,224 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
 
 * **\[1] Visual Prompt Tuning,** ECCV 2022.
 
   *Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim.*
 
-  \[[Paper](https://arxiv.org/abs/2203.12119)]\[[Code](https://github.com/kmnp/vpt) ⭐ 1,244 | 🐛 28 | 🌐 Python | 📅 2023-09-02] ![](https://img.shields.io/badge/VPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
+  \[[Paper](https://arxiv.org/abs/2203.12119)]\[[Code](https://github.com/kmnp/vpt) ⭐ 1,245 | 🐛 28 | 🌐 Python | 📅 2023-09-02] ![](https://img.shields.io/badge/VPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 * **\[17] MaPLe: Multi-modal Prompt Learning,** CVPR 2023.
 
@@ -608,7 +608,7 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,781 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,784 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
