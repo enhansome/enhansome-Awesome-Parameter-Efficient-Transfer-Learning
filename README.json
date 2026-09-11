@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "TencentARC",
                 "repo": "T2I-Adapter",
-                "stars": 3798,
+                "stars": 3799,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13784,
+                "stars": 13787,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T04:33:43.493Z",
+    "last_updated": "2026-09-11T04:31:08.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
@@ -1548,7 +1548,7 @@
       "open_issues": 14,
       "owner": "synbol",
       "repo": "Awesome-Parameter-Efficient-Transfer-Learning",
-      "stars": 590,
+      "stars": 589,
       "topics": [
         "awesome-list",
         "computer-vision",
