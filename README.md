@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,210 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,509 | 🐛 106 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -94,7 +94,7 @@
 
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
-  \[[Paper](https://arxiv.org/abs/2112.06825)]\[[Code](https://github.com/ylsung/VL_adapter) ⭐ 212 | 🐛 7 | 🌐 Python | 📅 2022-12-18] ![](https://img.shields.io/badge/VL_adapter-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
+  \[[Paper](https://arxiv.org/abs/2112.06825)]\[[Code](https://github.com/ylsung/VL_adapter) ⭐ 212 | 🐛 8 | 🌐 Python | 📅 2026-09-12] ![](https://img.shields.io/badge/VL_adapter-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 * **\[2] Convolutional Bypasses are Better Vision Transformer Adapters,** Arxiv 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

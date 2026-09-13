@@ -86,8 +86,8 @@
                 "id": 437963882,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2022-12-18T06:43:10Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-12T06:51:33Z",
+                "open_issues": 8,
                 "owner": "ylsung",
                 "repo": "VL_adapter",
                 "stars": 212,
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T04:27:47.138Z",
+    "last_updated": "2026-09-13T04:40:36.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
