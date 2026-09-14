@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,509 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,824 | 🐛 106 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -94,7 +94,7 @@
 
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
-  \[[Paper](https://arxiv.org/abs/2112.06825)]\[[Code](https://github.com/ylsung/VL_adapter) ⭐ 212 | 🐛 8 | 🌐 Python | 📅 2026-09-12] ![](https://img.shields.io/badge/VL_adapter-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
+  \[[Paper](https://arxiv.org/abs/2112.06825)]\[[Code](https://github.com/ylsung/VL_adapter) ⭐ 212 | 🐛 8 | 🌐 Python | 📅 2026-09-14] ![](https://img.shields.io/badge/VL_adapter-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 * **\[2] Convolutional Bypasses are Better Vision Transformer Adapters,** Arxiv 2022.
 
@@ -106,7 +106,7 @@
 
   *Xin Zhou , Dingkang Liang , Wei Xu, Xingkui Zhu ,Yihan Xu, Zhikang Zou, Xiang Bai.*
 
-  \[[Paper](https://arxiv.org/abs/2403.01439)]\[[Code](https://github.com/LMD0311/DAPT) ⭐ 171 | 🐛 1 | 🌐 Python | 📅 2024-10-11] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2403.01439)]\[[Code](https://github.com/LMD0311/DAPT) ⭐ 172 | 🐛 1 | 🌐 Python | 📅 2024-10-11] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
 
 * **\[28] Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation,** ICCV 2023.
 
@@ -300,13 +300,13 @@
 
   *Wang, Ziyi and Yu, Xumin and Rao, Yongming and Zhou, Jie and Lu, Jiwen.*
 
-  \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5cd6dc946ccc37ae6c9f4fc6b6181e1d-Abstract-Conference.html)]\[[Code](https://github.com/wangzy22/P2P) ⭐ 133 | 🐛 3 | 🌐 Python | 📅 2023-07-26] ![](https://img.shields.io/badge/P2P-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
+  \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5cd6dc946ccc37ae6c9f4fc6b6181e1d-Abstract-Conference.html)]\[[Code](https://github.com/wangzy22/P2P) ⭐ 134 | 🐛 3 | 🌐 Python | 📅 2023-07-26] ![](https://img.shields.io/badge/P2P-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
 
 * **\[5] Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models,** ICCV 2023.
 
   *Zha, Yaohua and Wang, Jinpeng and Dai, Tao and Chen, Bin and Wang, Zhi and Xia, Shu-Tao.*
 
-  \[[Paper](https://arxiv.org/pdf/2304.07221.pdf)]\[[Code](https://github.com/zyh16143998882/ICCV23-IDPT) ⭐ 111 | 🐛 5 | 🌐 Python | 📅 2023-12-19] ![](https://img.shields.io/badge/IDPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
+  \[[Paper](https://arxiv.org/pdf/2304.07221.pdf)]\[[Code](https://github.com/zyh16143998882/ICCV23-IDPT) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2023-12-19] ![](https://img.shields.io/badge/IDPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 * **\[26] E2VPT: An Effective and Efficient Approach for Visual Prompt Tuning,** ICCV 2023.
 
@@ -608,7 +608,7 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,789 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,791 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
