@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "TencentARC",
                 "repo": "T2I-Adapter",
-                "stars": 3799,
+                "stars": 3800,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -170,7 +170,7 @@
                 "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "ETRIS",
-                "stars": 140,
+                "stars": 144,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -490,7 +490,7 @@
                 "open_issues": 15,
                 "owner": "muzairkhattak",
                 "repo": "multimodal-prompt-learning",
-                "stars": 819,
+                "stars": 820,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -805,7 +805,7 @@
                 "open_issues": 36,
                 "owner": "XiangLi1999",
                 "repo": "PrefixTuning",
-                "stars": 959,
+                "stars": 960,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13794,
+                "stars": 13797,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T04:47:45.229Z",
+    "last_updated": "2026-09-16T04:43:35.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
