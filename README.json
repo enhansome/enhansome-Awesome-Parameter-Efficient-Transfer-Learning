@@ -220,7 +220,7 @@
                 "open_issues": 1,
                 "owner": "csguoh",
                 "repo": "AdaptIR",
-                "stars": 90,
+                "stars": 91,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -469,7 +469,7 @@
                 "open_issues": 28,
                 "owner": "KMnP",
                 "repo": "vpt",
-                "stars": 1245,
+                "stars": 1246,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13796,
+                "stars": 13799,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T04:46:34.241Z",
+    "last_updated": "2026-09-18T04:36:07.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
