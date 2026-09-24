@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,091 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,533 | 🐛 106 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -276,7 +276,7 @@
 
   *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and others.*
 
-  \[[Paper](https://arxiv.org/abs/2210.03117)]\[[Code](https://github.com/muzairkhattak/multimodal-prompt-learning) ⭐ 820 | 🐛 15 | 🌐 Python | 📅 2023-07-24] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2210.03117)]\[[Code](https://github.com/muzairkhattak/multimodal-prompt-learning) ⭐ 821 | 🐛 15 | 🌐 Python | 📅 2023-07-24] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
 
 * **\[21] Tokenize Anything via Prompting,** Arxiv 2023.
 
@@ -288,7 +288,7 @@
 
   *Zhu, Jiawen and Lai, Simiao and Chen, Xin and Wang, Dong and Lu, Huchuan.*
 
-  \[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.html)]\[[Code](https://github.com/jiawen-zhu/ViPT) ⭐ 352 | 🐛 12 | 🌐 Python | 📅 2025-03-04] ![](https://img.shields.io/badge/ViPT-blue) ![](https://img.shields.io/badge/MultiModal_Tracking-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
+  \[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.html)]\[[Code](https://github.com/jiawen-zhu/ViPT) ⭐ 353 | 🐛 12 | 🌐 Python | 📅 2025-03-04] ![](https://img.shields.io/badge/ViPT-blue) ![](https://img.shields.io/badge/MultiModal_Tracking-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 * **\[10] Explicit Visual Prompting for Low-Level Structure Segmentations,** CVPR 2023.
 
@@ -608,13 +608,13 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,811 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,812 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
   *Dongze Lian, Daquan Zhou, Jiashi Feng, Xinchao Wang.*
 
-  \[[Paper](https://arxiv.org/abs/2210.08823)]\[[Code](https://github.com/dongzelian/SSF) ⭐ 199 | 🐛 9 | 🌐 Python | 📅 2023-10-10] ![](https://img.shields.io/badge/SSF-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/MLP_Tuning-orange)
+  \[[Paper](https://arxiv.org/abs/2210.08823)]\[[Code](https://github.com/dongzelian/SSF) ⭐ 200 | 🐛 9 | 🌐 Python | 📅 2023-10-10] ![](https://img.shields.io/badge/SSF-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/MLP_Tuning-orange)
 
 * **\[9] Towards Efficient Visual Adaption via Structural Re-parameterization,** Arxiv 2023.
 
@@ -688,7 +688,7 @@
 
   *Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig.*
 
-  \[[Paper](https://arxiv.org/abs/2110.04366)]\[[Code](https://github.com/jxhe/unify-parameter-efficient-tuning) ⭐ 541 | 🐛 7 | 🌐 Python | 📅 2022-03-24] ![](https://img.shields.io/badge/Unified_View-orange)
+  \[[Paper](https://arxiv.org/abs/2110.04366)]\[[Code](https://github.com/jxhe/unify-parameter-efficient-tuning) ⭐ 540 | 🐛 7 | 🌐 Python | 📅 2022-03-24] ![](https://img.shields.io/badge/Unified_View-orange)
 
 * **\[3] Neural Prompt Search,** Arxiv 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

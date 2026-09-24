@@ -490,7 +490,7 @@
                 "open_issues": 15,
                 "owner": "muzairkhattak",
                 "repo": "multimodal-prompt-learning",
-                "stars": 820,
+                "stars": 821,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -537,7 +537,7 @@
                 "open_issues": 12,
                 "owner": "jiawen-zhu",
                 "repo": "ViPT",
-                "stars": 352,
+                "stars": 353,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13811,
+                "stars": 13812,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1253,7 +1253,7 @@
                 "open_issues": 9,
                 "owner": "dongzelian",
                 "repo": "SSF",
-                "stars": 199,
+                "stars": 200,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1450,7 +1450,7 @@
                 "open_issues": 7,
                 "owner": "jxhe",
                 "repo": "unify-parameter-efficient-tuning",
-                "stars": 541,
+                "stars": 540,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T04:39:21.562Z",
+    "last_updated": "2026-09-24T04:39:53.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
