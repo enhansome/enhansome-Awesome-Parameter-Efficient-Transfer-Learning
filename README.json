@@ -86,8 +86,8 @@
                 "id": 437963882,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T16:05:52Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-26T04:23:09Z",
+                "open_issues": 6,
                 "owner": "ylsung",
                 "repo": "VL_adapter",
                 "stars": 212,
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13812,
+                "stars": 13815,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T04:50:01.504Z",
+    "last_updated": "2026-09-26T04:50:14.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
