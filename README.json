@@ -55,6 +55,34 @@
             },
             {
               "node_type": "item",
+              "title": "[14] VL-adapter: Parameter-efficient transfer learning for vision-and-language tasks, CVPR 2022.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "PyTorch code for \"VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks\" (CVPR2022)",
+                "homepage": null,
+                "id": 437963882,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-26T04:23:09Z",
+                "open_issues": 6,
+                "owner": "ylsung",
+                "repo": "VL_adapter",
+                "stars": 213,
+                "topics": [
+                  "adapters",
+                  "prompt-tuning",
+                  "pytorch",
+                  "transformers",
+                  "vision-and-language",
+                  "vl-adapter"
+                ]
+              },
+              "first_seen": "2026-08-28T11:17:52.872Z"
+            },
+            {
+              "node_type": "item",
               "title": "[22] I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models, Arxiv 2023.",
               "description": null,
               "children": [],
@@ -71,34 +99,6 @@
                 "repo": "I2V-Adapter-repo",
                 "stars": 213,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T11:17:52.872Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[14] VL-adapter: Parameter-efficient transfer learning for vision-and-language tasks, CVPR 2022.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "PyTorch code for \"VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks\" (CVPR2022)",
-                "homepage": null,
-                "id": 437963882,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-26T04:23:09Z",
-                "open_issues": 6,
-                "owner": "ylsung",
-                "repo": "VL_adapter",
-                "stars": 212,
-                "topics": [
-                  "adapters",
-                  "prompt-tuning",
-                  "pytorch",
-                  "transformers",
-                  "vision-and-language",
-                  "vl-adapter"
-                ]
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
             },
@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2229,
+                "stars": 2230,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13815,
+                "stars": 13818,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T04:50:14.619Z",
+    "last_updated": "2026-09-27T05:12:33.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",

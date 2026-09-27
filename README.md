@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,556 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,053 | 🐛 107 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -84,17 +84,17 @@
 
   \[[Paper](https://arxiv.org/abs/2205.13535)]\[[Code](https://github.com/ShoufaChen/AdaptFormer) ⭐ 390 | 🐛 21 | 🌐 Python | 📅 2022-09-16] ![](https://img.shields.io/badge/AdaptFormer-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green)  ![](https://img.shields.io/badge/Adapter_Design-orange)
 
+* **\[14] VL-adapter: Parameter-efficient transfer learning for vision-and-language tasks,** CVPR 2022.
+
+  *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
+
+  \[[Paper](https://arxiv.org/abs/2112.06825)]\[[Code](https://github.com/ylsung/VL_adapter) ⭐ 213 | 🐛 6 | 🌐 Python | 📅 2026-09-26] ![](https://img.shields.io/badge/VL_adapter-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
+
 * **\[22] I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models,** Arxiv 2023.
 
   *Guo, Xun and Zheng, Mingwu and Hou, Liang and Gao, Yuan and Deng, Yufan and others.*
 
   \[[Paper](https://arxiv.org/abs/2312.16693)]\[[Code](https://github.com/I2V-Adapter/I2V-Adapter-repo) ⭐ 213 | 🐛 5 | 📅 2023-12-30] ![](https://img.shields.io/badge/I2V_Adapter-blue) ![](https://img.shields.io/badge/Image2Video-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
-
-* **\[14] VL-adapter: Parameter-efficient transfer learning for vision-and-language tasks,** CVPR 2022.
-
-  *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
-
-  \[[Paper](https://arxiv.org/abs/2112.06825)]\[[Code](https://github.com/ylsung/VL_adapter) ⭐ 212 | 🐛 6 | 🌐 Python | 📅 2026-09-26] ![](https://img.shields.io/badge/VL_adapter-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 * **\[2] Convolutional Bypasses are Better Vision Transformer Adapters,** Arxiv 2022.
 
@@ -264,7 +264,7 @@
 
   *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
 
-  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,229 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,230 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
 
 * **\[1] Visual Prompt Tuning,** ECCV 2022.
 
@@ -608,7 +608,7 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,815 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,818 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
