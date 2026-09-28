@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2230,
+                "stars": 2231,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -469,7 +469,7 @@
                 "open_issues": 28,
                 "owner": "KMnP",
                 "repo": "vpt",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:12:33.665Z",
+    "last_updated": "2026-09-28T05:16:07.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
