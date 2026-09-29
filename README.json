@@ -805,7 +805,7 @@
                 "open_issues": 36,
                 "owner": "XiangLi1999",
                 "repo": "PrefixTuning",
-                "stars": 960,
+                "stars": 961,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13818,
+                "stars": 13817,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T05:16:07.369Z",
+    "last_updated": "2026-09-29T05:37:44.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
