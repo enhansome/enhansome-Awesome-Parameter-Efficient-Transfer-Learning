@@ -42,7 +42,7 @@
                 "open_issues": 21,
                 "owner": "ShoufaChen",
                 "repo": "AdaptFormer",
-                "stars": 390,
+                "stars": 391,
                 "topics": [
                   "adapter",
                   "neurips-2022",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13817,
+                "stars": 13821,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T05:37:44.690Z",
+    "last_updated": "2026-09-30T05:26:07.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
