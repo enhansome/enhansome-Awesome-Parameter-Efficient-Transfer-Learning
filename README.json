@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "[21] T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models, AAAI 2024.",
-              "description": null,
+              "description": "TencentARC/T2I-Adapter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "[1] AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition, NeurIPS 2022.",
-              "description": null,
+              "description": "ShoufaChen/AdaptFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -56,7 +56,7 @@
             {
               "node_type": "item",
               "title": "[14] VL-adapter: Parameter-efficient transfer learning for vision-and-language tasks, CVPR 2022.",
-              "description": null,
+              "description": "ylsung/VL_adapter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -84,7 +84,7 @@
             {
               "node_type": "item",
               "title": "[22] I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models, Arxiv 2023.",
-              "description": null,
+              "description": "I2V-Adapter/I2V-Adapter-repo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -105,7 +105,7 @@
             {
               "node_type": "item",
               "title": "[2] Convolutional Bypasses are Better Vision Transformer Adapters, Arxiv 2022.",
-              "description": null,
+              "description": "JieShibo/PETL-ViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -131,7 +131,7 @@
             {
               "node_type": "item",
               "title": "[26] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis, CVPR 2024.",
-              "description": null,
+              "description": "LMD0311/DAPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -157,7 +157,7 @@
             {
               "node_type": "item",
               "title": "[28] Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation, ICCV 2023.",
-              "description": null,
+              "description": "kkakkkka/ETRIS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -186,7 +186,7 @@
             {
               "node_type": "item",
               "title": "[12] Compacter: Efficient Low-Rank Hypercomplex Adapter Layer, NeurIPS 2021.",
-              "description": null,
+              "description": "rabeehk/compacter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -207,7 +207,7 @@
             {
               "node_type": "item",
               "title": "[23] AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models, Arxiv 2023.",
-              "description": null,
+              "description": "csguoh/AdaptIR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -228,7 +228,7 @@
             {
               "node_type": "item",
               "title": "[3] ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning, NeurIPS 2022.",
-              "description": null,
+              "description": "linziyi96/st-adapter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -249,7 +249,7 @@
             {
               "node_type": "item",
               "title": "[15] UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling, ICLR 2024.",
-              "description": null,
+              "description": "RERV/UniAdapter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -270,7 +270,7 @@
             {
               "node_type": "item",
               "title": "[25] CAST: Cross-Attention in Space and Time for Video Action Recognition, NeurIPS 2023.",
-              "description": null,
+              "description": "KHU-VLL/CAST",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -298,7 +298,7 @@
             {
               "node_type": "item",
               "title": "[24] A Closer Look at Parameter-Efficient Tuning in Diffusion Models, Arxiv 2023.",
-              "description": null,
+              "description": "Xiang-cd/unet-finetune",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -319,7 +319,7 @@
             {
               "node_type": "item",
               "title": "[30] Sparse-Tuning: Adapting Vision Transformers with Efficient Fine-tuning and Inference, ArXiv 2024.",
-              "description": null,
+              "description": "liuting20/Sparse-Tuning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -340,7 +340,7 @@
             {
               "node_type": "item",
               "title": "[17] Hydra: Multi-head Low-rank Adaptation for Parameter Efficient Fine-tuning, Arxiv 2023.",
-              "description": null,
+              "description": "extremebird/Hydra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -361,7 +361,7 @@
             {
               "node_type": "item",
               "title": "[30] PAVE: Patching and Adapting Video Large Language Models, CVPR 2025.",
-              "description": null,
+              "description": "dragonlzm/PAVE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -382,7 +382,7 @@
             {
               "node_type": "item",
               "title": "[18] MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering, CVPR 2023.",
-              "description": null,
+              "description": "jingjing12110/MixPHM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -403,7 +403,7 @@
             {
               "node_type": "item",
               "title": "[9] SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels, IJCV 2023.",
-              "description": null,
+              "description": "showlab/SCT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -431,7 +431,7 @@
             {
               "node_type": "item",
               "title": "[15] Learning to Prompt for Vision-Language Models, IJCV 2022.",
-              "description": null,
+              "description": "KaiyangZhou/CoOp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,7 +456,7 @@
             {
               "node_type": "item",
               "title": "[1] Visual Prompt Tuning, ECCV 2022.",
-              "description": null,
+              "description": "KMnP/vpt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -477,7 +477,7 @@
             {
               "node_type": "item",
               "title": "[17] MaPLe: Multi-modal Prompt Learning, CVPR 2023.",
-              "description": null,
+              "description": "muzairkhattak/multimodal-prompt-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -498,7 +498,7 @@
             {
               "node_type": "item",
               "title": "[21] Tokenize Anything via Prompting, Arxiv 2023.",
-              "description": null,
+              "description": "baaivision/tokenize-anything",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -524,7 +524,7 @@
             {
               "node_type": "item",
               "title": "[6] Visual Prompt Multi-Modal Tracking, CVPR 2023.",
-              "description": null,
+              "description": "jiawen-zhu/ViPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -545,7 +545,7 @@
             {
               "node_type": "item",
               "title": "[10] Explicit Visual Prompting for Low-Level Structure Segmentations, CVPR 2023.",
-              "description": null,
+              "description": "NiFangBaAGe/Explicit-Visual-Prompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -566,7 +566,7 @@
             {
               "node_type": "item",
               "title": "[11] P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting, NeurIPS 2022.",
-              "description": null,
+              "description": "wangzy22/P2P",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -587,7 +587,7 @@
             {
               "node_type": "item",
               "title": "[5] Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models, ICCV 2023.",
-              "description": null,
+              "description": "zyh16143998882/ICCV23-IDPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -608,7 +608,7 @@
             {
               "node_type": "item",
               "title": "[26] E2VPT: An Effective and Efficient Approach for Visual Prompt Tuning, ICCV 2023.",
-              "description": null,
+              "description": "ChengHan111/E2VPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -629,7 +629,7 @@
             {
               "node_type": "item",
               "title": "[24] Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Tasks, NeurIPS 2023.",
-              "description": null,
+              "description": "haoyi-duan/DG-SCT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -652,7 +652,7 @@
             {
               "node_type": "item",
               "title": "[3] LPT: Long-tailed Prompt Tuning for Image Classification, ICLR 2023.",
-              "description": null,
+              "description": "DongSky/LPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -673,7 +673,7 @@
             {
               "node_type": "item",
               "title": "[14] Understanding and Improving Visual Prompting: A Label-Mapping Perspective, CVPR 2023.",
-              "description": null,
+              "description": "OPTML-Group/ILM-VP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -694,7 +694,7 @@
             {
               "node_type": "item",
               "title": "[20] Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model, TMM 2023.",
-              "description": null,
+              "description": "fanrena/DPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -715,7 +715,7 @@
             {
               "node_type": "item",
               "title": "[27] DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval, AAAI 2024.",
-              "description": null,
+              "description": "knightyxp/DGL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -743,7 +743,7 @@
             {
               "node_type": "item",
               "title": "[13] Unleashing the Power of Visual Prompting At the Pixel Level, Arxiv 2023.",
-              "description": null,
+              "description": "UCSC-VLAA/EVP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -764,7 +764,7 @@
             {
               "node_type": "item",
               "title": "[9] ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation, Arxiv 2023.",
-              "description": null,
+              "description": "ShishuaiHu/ProSFDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -792,7 +792,7 @@
             {
               "node_type": "item",
               "title": "[1] Prefix-Tuning: Optimizing Continuous Prompts for Generation, ACL 2021.",
-              "description": null,
+              "description": "XiangLi1999/PrefixTuning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -813,7 +813,7 @@
             {
               "node_type": "item",
               "title": "[5] A Unified Continual Learning Framework with General Parameter-Efficient Tuning, ICCV 2023.",
-              "description": null,
+              "description": "gqk/LAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -834,7 +834,7 @@
             {
               "node_type": "item",
               "title": "[2] Towards a Unified View on Visual Parameter-Efficient Transfer Learning, Arxiv 2023.",
-              "description": null,
+              "description": "bruceyo/V-PETL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -855,7 +855,7 @@
             {
               "node_type": "item",
               "title": "[3] Exploring Efficient Few-shot Adaptation for Vision Transformers, TMLR 2023.",
-              "description": null,
+              "description": "chmxu/eTT_TMLR2022",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -876,7 +876,7 @@
             {
               "node_type": "item",
               "title": "[4] Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning, CVPR 2023.",
-              "description": null,
+              "description": "andytu28/VQT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -904,7 +904,7 @@
             {
               "node_type": "item",
               "title": "[3] Vision transformer adapter for dense predictions. ICLR 2023.",
-              "description": null,
+              "description": "czczup/ViT-Adapter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -930,7 +930,7 @@
             {
               "node_type": "item",
               "title": "[2] LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning, NeurIPS 2022.",
-              "description": null,
+              "description": "ylsung/Ladder-Side-Tuning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -951,7 +951,7 @@
             {
               "node_type": "item",
               "title": "[6] DTL: Disentangled Transfer Learning for Visual Recognition, AAAI 2024.",
-              "description": null,
+              "description": "heekhero/DTL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -972,7 +972,7 @@
             {
               "node_type": "item",
               "title": "[8] Ladder Fine-tuning approach for SAM integrating complementary network, Arxiv 2023.",
-              "description": null,
+              "description": "11yxk/SAM-LST",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -998,7 +998,7 @@
             {
               "node_type": "item",
               "title": "[14] UniPT: Universal Parallel Tuning for Transfer Learning with Efficient Parameter and Memory, CVPR 2024.",
-              "description": null,
+              "description": "Paranioar/UniPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1027,7 +1027,7 @@
             {
               "node_type": "item",
               "title": "[13] BarLeRIa: An Efficient Tuning Framework for Referring Image Segmentation, ICLR 2024.",
-              "description": null,
+              "description": "NastrondAd/BarLeRIa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1048,7 +1048,7 @@
             {
               "node_type": "item",
               "title": "[15] SHERL: Synthesizing High Accuracy and Efficient Memory for Resource-Limited Transfer Learning, ECCV 2024.",
-              "description": null,
+              "description": "Paranioar/SHERL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1084,7 +1084,7 @@
             {
               "node_type": "item",
               "title": "[2] BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models. ACL 2022.",
-              "description": null,
+              "description": "benzakenelad/BitFit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1105,7 +1105,7 @@
             {
               "node_type": "item",
               "title": "[6] DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning, ICCV 2023.",
-              "description": null,
+              "description": "mkshing/DiffFit-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1126,7 +1126,7 @@
             {
               "node_type": "item",
               "title": "[8] Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning, ICCV 2023.",
-              "description": null,
+              "description": "ziplab/SPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1154,7 +1154,7 @@
             {
               "node_type": "item",
               "title": "[4] AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks, NAACL 2022.",
-              "description": null,
+              "description": "Allen0307/AdapterBias",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1180,7 +1180,7 @@
             {
               "node_type": "item",
               "title": "[1] Do Better ImageNet Models Transfer Better?, CVPR 2019.",
-              "description": null,
+              "description": "lsh3163/Imagenet-Better",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1208,7 +1208,7 @@
             {
               "node_type": "item",
               "title": "[1] LoRA: Low-Rank Adaptation of Large Language Models. NeurIPS 2021.",
-              "description": null,
+              "description": "microsoft/LoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13824,
+                "stars": 13826,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1240,7 +1240,7 @@
             {
               "node_type": "item",
               "title": "[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning, NeurIPS 2022.",
-              "description": null,
+              "description": "dongzelian/SSF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1261,7 +1261,7 @@
             {
               "node_type": "item",
               "title": "[9] Towards Efficient Visual Adaption via Structural Re-parameterization, Arxiv 2023.",
-              "description": null,
+              "description": "luogen1996/RepAdapter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1282,7 +1282,7 @@
             {
               "node_type": "item",
               "title": "[10]DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Models, Arxiv 2023.",
-              "description": null,
+              "description": "IBM/DiffuseKronA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1308,7 +1308,7 @@
             {
               "node_type": "item",
               "title": "[7] Parameter-efficient Model Adaptation for Vision Transformers, AAAI 2023.",
-              "description": null,
+              "description": "UCSB-AI/PEViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1335,7 +1335,7 @@
             {
               "node_type": "item",
               "title": "[12]PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning, CVPR 2025.",
-              "description": null,
+              "description": "songw-zju/PointLoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1356,7 +1356,7 @@
             {
               "node_type": "item",
               "title": "[11]Expanding Sparse Tuning for Low Memory Usage, NeurIPS 2024.",
-              "description": null,
+              "description": "ssfgunner/SNELL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1382,7 +1382,7 @@
             {
               "node_type": "item",
               "title": "[8] DnA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment, ECCV 2022.",
-              "description": null,
+              "description": "VITA-Group/DnA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1403,7 +1403,7 @@
             {
               "node_type": "item",
               "title": "[5] Aggregate, Decompose, and Fine-Tune: A Simple Yet Effective Factor-Tuning Method for Vision Transformer, Arxiv 2023.",
-              "description": null,
+              "description": "Dongping-Chen/EFFT-EFfective-Factor-Tuning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1437,7 +1437,7 @@
             {
               "node_type": "item",
               "title": "[1] Towards a Unified View of Parameter-Efficient Transfer Learning, ICLR 2022.",
-              "description": null,
+              "description": "jxhe/unify-parameter-efficient-tuning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1458,7 +1458,7 @@
             {
               "node_type": "item",
               "title": "[3] Neural Prompt Search, Arxiv 2022.",
-              "description": null,
+              "description": "ZhangYuanhan-AI/NOAH",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1487,7 +1487,7 @@
             {
               "node_type": "item",
               "title": "[5] A Unified Continual Learning Framework with General Parameter-Efficient Tuning, ICCV 2023.",
-              "description": null,
+              "description": "gqk/LAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1508,7 +1508,7 @@
             {
               "node_type": "item",
               "title": "[2] Towards a Unified View on Visual Parameter-Efficient Transfer Learning, Arxiv 2023.",
-              "description": null,
+              "description": "bruceyo/V-PETL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:28:15.600Z",
+    "last_updated": "2026-10-03T04:28:45.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
