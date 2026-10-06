@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2233,
+                "stars": 2234,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -805,7 +805,7 @@
                 "open_issues": 36,
                 "owner": "XiangLi1999",
                 "repo": "PrefixTuning",
-                "stars": 961,
+                "stars": 960,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -917,7 +917,7 @@
                 "open_issues": 83,
                 "owner": "czczup",
                 "repo": "ViT-Adapter",
-                "stars": 1504,
+                "stars": 1505,
                 "topics": [
                   "adapter",
                   "object-detection",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13833,
+                "stars": 13832,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:13:05.948Z",
+    "last_updated": "2026-10-06T10:37:20.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
