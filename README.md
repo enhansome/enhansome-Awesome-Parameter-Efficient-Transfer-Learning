@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,777 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,259 | 🐛 107 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -106,13 +106,13 @@
 
   *Xin Zhou , Dingkang Liang , Wei Xu, Xingkui Zhu ,Yihan Xu, Zhikang Zou, Xiang Bai.*
 
-  \[[Paper](https://arxiv.org/abs/2403.01439)]\[[Code](https://github.com/LMD0311/DAPT) ⭐ 172 | 🐛 1 | 🌐 Python | 📅 2024-10-11] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2403.01439)]\[[Code](https://github.com/LMD0311/DAPT) ⭐ 171 | 🐛 1 | 🌐 Python | 📅 2024-10-11] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
 
 * **\[28] Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation,** ICCV 2023.
 
   *Zunnan Xu, Zhihong Chen, Yong Zhang, Yibing Song, Xiang Wan, Guanbin Li.*
 
-  \[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Bridging_Vision_and_Language_Encoders_Parameter-Efficient_Tuning_for_Referring_Image_ICCV_2023_paper.pdf)]\[[Code](https://github.com/kkakkkka/ETRIS) ⭐ 146 | 🐛 0 | 🌐 Python | 📅 2025-06-26]
+  \[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Bridging_Vision_and_Language_Encoders_Parameter-Efficient_Tuning_for_Referring_Image_ICCV_2023_paper.pdf)]\[[Code](https://github.com/kkakkkka/ETRIS) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2025-06-26]
 
 * **\[12] Compacter: Efficient Low-Rank Hypercomplex Adapter Layer,** NeurIPS 2021.
 
@@ -472,7 +472,7 @@
 
   *Fu, Minghao and Zhu, Ke and Wu, Jianxin.*
 
-  \[[Paper](https://arxiv.org/abs/2312.07856)]\[[Code](https://github.com/heekhero/DTL) ⭐ 114 | 🐛 1 | 🌐 Python | 📅 2025-07-15] ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2312.07856)]\[[Code](https://github.com/heekhero/DTL) ⭐ 113 | 🐛 1 | 🌐 Python | 📅 2025-07-15] ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
 
 * **\[8] Ladder Fine-tuning approach for SAM integrating complementary network,** Arxiv 2023.
 
@@ -608,7 +608,7 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,831 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,833 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

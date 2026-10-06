@@ -144,7 +144,7 @@
                 "open_issues": 1,
                 "owner": "LMD0311",
                 "repo": "DAPT",
-                "stars": 172,
+                "stars": 171,
                 "topics": [
                   "3d-point-clouds",
                   "cvpr2024",
@@ -170,7 +170,7 @@
                 "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "ETRIS",
-                "stars": 146,
+                "stars": 147,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -964,7 +964,7 @@
                 "open_issues": 1,
                 "owner": "heekhero",
                 "repo": "DTL",
-                "stars": 114,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13831,
+                "stars": 13833,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T05:28:54.171Z",
+    "last_updated": "2026-10-06T06:13:05.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
