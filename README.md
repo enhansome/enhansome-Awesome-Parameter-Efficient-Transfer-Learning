@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,742 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,207 | 🐛 106 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -300,7 +300,7 @@
 
   *Wang, Ziyi and Yu, Xumin and Rao, Yongming and Zhou, Jie and Lu, Jiwen.*
 
-  \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5cd6dc946ccc37ae6c9f4fc6b6181e1d-Abstract-Conference.html)]\[[Code](https://github.com/wangzy22/P2P) ⭐ 134 | 🐛 3 | 🌐 Python | 📅 2023-07-26] ![](https://img.shields.io/badge/P2P-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
+  \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5cd6dc946ccc37ae6c9f4fc6b6181e1d-Abstract-Conference.html)]\[[Code](https://github.com/wangzy22/P2P) ⭐ 135 | 🐛 3 | 🌐 Python | 📅 2023-07-26] ![](https://img.shields.io/badge/P2P-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
 
 * **\[5] Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models,** ICCV 2023.
 
@@ -608,7 +608,7 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,833 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,837 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
