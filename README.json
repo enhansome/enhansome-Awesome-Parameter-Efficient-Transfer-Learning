@@ -161,12 +161,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[ICCV-2023] The official code of Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation",
+                "description": "[ICCV-2023] The code of Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation",
                 "homepage": null,
                 "id": 613895197,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-06-26T06:07:43Z",
+                "last_commit": "2026-10-10T05:50:18Z",
                 "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "ETRIS",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13844,
+                "stars": 13846,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T05:44:00.461Z",
+    "last_updated": "2026-10-11T05:38:53.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
