@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13852,
+                "stars": 13853,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T06:42:38.556Z",
+    "last_updated": "2026-10-14T04:46:06.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
