@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,570 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,080 | 🐛 105 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -466,7 +466,7 @@
 
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
-  \[[Paper](https://arxiv.org/abs/2206.06522)]\[[Code](https://github.com/ylsung/Ladder-Side-Tuning) ⭐ 241 | 🐛 6 | 🌐 Python | 📅 2023-01-20] ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2206.06522)]\[[Code](https://github.com/ylsung/Ladder-Side-Tuning) ⭐ 242 | 🐛 6 | 🌐 Python | 📅 2023-01-20] ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
 
 * **\[6] DTL: Disentangled Transfer Learning for Visual Recognition,** AAAI 2024.
 
@@ -478,7 +478,7 @@
 
   *Chai, Shurong and Jain, Rahul Kumar and Teng, Shiyu and Liu, Jiaqing and Li, Yinhao and others.*
 
-  \[[Paper](https://arxiv.org/abs/2306.12737)]\[[Code](https://github.com/11yxk/SAM-LST) ⭐ 95 | 🐛 5 | 🌐 Python | 📅 2023-06-24] ![](https://img.shields.io/badge/SAM_LST-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2306.12737)]\[[Code](https://github.com/11yxk/SAM-LST) ⭐ 94 | 🐛 5 | 🌐 Python | 📅 2023-06-24] ![](https://img.shields.io/badge/SAM_LST-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
 
 * **\[14] UniPT: Universal Parallel Tuning for Transfer Learning with Efficient Parameter and Memory,** CVPR 2024.
 
@@ -608,7 +608,7 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,856 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,861 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
