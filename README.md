@@ -11,8 +11,8 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,080 | 🐛 105 | 📅 2026-09-02
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,577 | 🐛 105 | 📅 2026-09-02
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 117 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
 
@@ -100,13 +100,13 @@
 
   *Jie, Shibo and Deng, Zhi-Hong.*
 
-  \[[Paper](https://arxiv.org/abs/2207.07039)]\[[Code](https://github.com/JieShibo/PETL-ViT) ⭐ 202 | 🐛 4 | 🌐 Python | 📅 2023-08-01] ![](https://img.shields.io/badge/Convpass-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Domain_Generalization-green)  ![](https://img.shields.io/badge/Adapter_Design-orange)
+  \[[Paper](https://arxiv.org/abs/2207.07039)]\[[Code](https://github.com/JieShibo/PETL-ViT) ⭐ 202 | 🐛 5 | 🌐 Python | 📅 2023-08-01] ![](https://img.shields.io/badge/Convpass-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Domain_Generalization-green)  ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 * **\[26] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis,** CVPR 2024.
 
   *Xin Zhou , Dingkang Liang , Wei Xu, Xingkui Zhu ,Yihan Xu, Zhikang Zou, Xiang Bai.*
 
-  \[[Paper](https://arxiv.org/abs/2403.01439)]\[[Code](https://github.com/LMD0311/DAPT) ⭐ 171 | 🐛 2 | 🌐 Python | 📅 2024-10-11] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2403.01439)]\[[Code](https://github.com/LMD0311/DAPT) ⭐ 170 | 🐛 2 | 🌐 Python | 📅 2024-10-11] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
 
 * **\[28] Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation,** ICCV 2023.
 
@@ -178,7 +178,7 @@
 
   *Henry Hengyuan Zhao, Pichao Wang, Yuyang Zhao, Hao Luo, Fan Wang, Mike Zheng Shou.*
 
-  \[[Paper](https://arxiv.org/abs/2303.07910)]\[[Code](https://github.com/showlab/SCT) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2023-09-18] ![](https://img.shields.io/badge/SCT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Adapter_Optimization-orange)
+  \[[Paper](https://arxiv.org/abs/2303.07910)]\[[Code](https://github.com/showlab/SCT) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2023-09-18] ![](https://img.shields.io/badge/SCT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Adapter_Optimization-orange)
 
 * **\[4] AIM: Adapting Image Models for Efficient Video Action Recognition,** ICLR 2023.
 
@@ -608,13 +608,13 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,861 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,859 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
   *Dongze Lian, Daquan Zhou, Jiashi Feng, Xinchao Wang.*
 
-  \[[Paper](https://arxiv.org/abs/2210.08823)]\[[Code](https://github.com/dongzelian/SSF) ⭐ 200 | 🐛 9 | 🌐 Python | 📅 2023-10-10] ![](https://img.shields.io/badge/SSF-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/MLP_Tuning-orange)
+  \[[Paper](https://arxiv.org/abs/2210.08823)]\[[Code](https://github.com/dongzelian/SSF) ⭐ 200 | 🐛 10 | 🌐 Python | 📅 2023-10-10] ![](https://img.shields.io/badge/SSF-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/MLP_Tuning-orange)
 
 * **\[9] Towards Efficient Visual Adaption via Structural Re-parameterization,** Arxiv 2023.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

@@ -115,7 +115,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-08-01T03:12:58Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "JieShibo",
                 "repo": "PETL-ViT",
                 "stars": 202,
@@ -144,7 +144,7 @@
                 "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "DAPT",
-                "stars": 171,
+                "stars": 170,
                 "topics": [
                   "3d-point-clouds",
                   "cvpr2024",
@@ -413,7 +413,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2023-09-18T12:40:57Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "showlab",
                 "repo": "SCT",
                 "stars": 12,
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13861,
+                "stars": 13859,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1250,7 +1250,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-10-10T08:19:15Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "dongzelian",
                 "repo": "SSF",
                 "stars": 200,
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:17:04.733Z",
+    "last_updated": "2026-10-18T04:22:41.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
