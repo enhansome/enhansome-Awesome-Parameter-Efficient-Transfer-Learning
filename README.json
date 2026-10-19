@@ -490,7 +490,7 @@
                 "open_issues": 15,
                 "owner": "muzairkhattak",
                 "repo": "multimodal-prompt-learning",
-                "stars": 823,
+                "stars": 824,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13859,
+                "stars": 13861,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T04:22:41.327Z",
+    "last_updated": "2026-10-19T04:32:01.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
@@ -1548,7 +1548,7 @@
       "open_issues": 14,
       "owner": "synbol",
       "repo": "Awesome-Parameter-Efficient-Transfer-Learning",
-      "stars": 587,
+      "stars": 588,
       "topics": [
         "awesome-list",
         "computer-vision",
