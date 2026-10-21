@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "TencentARC",
                 "repo": "T2I-Adapter",
-                "stars": 3797,
+                "stars": 3796,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T04:41:37.847Z",
+    "last_updated": "2026-10-21T04:36:23.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
