@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "TencentARC",
                 "repo": "T2I-Adapter",
-                "stars": 3796,
+                "stars": 3795,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -370,7 +370,7 @@
                 "id": 955041251,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2025-09-06T18:24:33Z",
+                "last_commit": "2026-10-22T23:57:59Z",
                 "open_issues": 0,
                 "owner": "dragonlzm",
                 "repo": "PAVE",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13868,
+                "stars": 13869,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T04:34:52.945Z",
+    "last_updated": "2026-10-23T04:40:14.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
