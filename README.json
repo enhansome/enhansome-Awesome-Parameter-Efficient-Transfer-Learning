@@ -42,7 +42,7 @@
                 "open_issues": 21,
                 "owner": "ShoufaChen",
                 "repo": "AdaptFormer",
-                "stars": 391,
+                "stars": 392,
                 "topics": [
                   "adapter",
                   "neurips-2022",
@@ -332,7 +332,7 @@
                 "open_issues": 1,
                 "owner": "liuting20",
                 "repo": "Sparse-Tuning",
-                "stars": 30,
+                "stars": 31,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1011,7 +1011,7 @@
                 "open_issues": 0,
                 "owner": "Paranioar",
                 "repo": "UniPT",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "cross-modal",
                   "memory-efficient-learning",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13877,
+                "stars": 13880,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T04:37:51.371Z",
+    "last_updated": "2026-10-27T04:55:54.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
@@ -1548,7 +1548,7 @@
       "open_issues": 14,
       "owner": "synbol",
       "repo": "Awesome-Parameter-Efficient-Transfer-Learning",
-      "stars": 587,
+      "stars": 588,
       "topics": [
         "awesome-list",
         "computer-vision",
