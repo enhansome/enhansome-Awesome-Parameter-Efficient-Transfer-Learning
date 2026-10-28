@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "TencentARC",
                 "repo": "T2I-Adapter",
-                "stars": 3796,
+                "stars": 3795,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -170,7 +170,7 @@
                 "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "ETRIS",
-                "stars": 147,
+                "stars": 149,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -576,7 +576,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2023-07-26T07:36:57Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "wangzy22",
                 "repo": "P2P",
                 "stars": 135,
@@ -597,7 +597,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2023-12-19T05:53:35Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "zyh16143998882",
                 "repo": "ICCV23-IDPT",
                 "stars": 112,
@@ -917,7 +917,7 @@
                 "open_issues": 83,
                 "owner": "czczup",
                 "repo": "ViT-Adapter",
-                "stars": 1506,
+                "stars": 1507,
                 "topics": [
                   "adapter",
                   "object-detection",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13880,
+                "stars": 13881,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T04:55:54.837Z",
+    "last_updated": "2026-10-28T05:31:00.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
