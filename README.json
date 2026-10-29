@@ -118,7 +118,7 @@
                 "open_issues": 5,
                 "owner": "JieShibo",
                 "repo": "PETL-ViT",
-                "stars": 202,
+                "stars": 201,
                 "topics": [
                   "parameter-efficient-tuning",
                   "pytorch",
@@ -943,7 +943,7 @@
                 "open_issues": 6,
                 "owner": "ylsung",
                 "repo": "Ladder-Side-Tuning",
-                "stars": 242,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13881,
+                "stars": 13883,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1471,7 +1471,7 @@
                 "open_issues": 10,
                 "owner": "ZhangYuanhan-AI",
                 "repo": "NOAH",
-                "stars": 241,
+                "stars": 240,
                 "topics": [
                   "deep-learning",
                   "domain-generalization",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T05:31:00.014Z",
+    "last_updated": "2026-10-29T05:39:18.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
