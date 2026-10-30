@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2236,
+                "stars": 2237,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -537,7 +537,7 @@
                 "open_issues": 12,
                 "owner": "jiawen-zhu",
                 "repo": "ViPT",
-                "stars": 353,
+                "stars": 354,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -917,7 +917,7 @@
                 "open_issues": 83,
                 "owner": "czczup",
                 "repo": "ViT-Adapter",
-                "stars": 1507,
+                "stars": 1508,
                 "topics": [
                   "adapter",
                   "object-detection",
@@ -943,7 +943,7 @@
                 "open_issues": 6,
                 "owner": "ylsung",
                 "repo": "Ladder-Side-Tuning",
-                "stars": 240,
+                "stars": 241,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -964,7 +964,7 @@
                 "open_issues": 1,
                 "owner": "heekhero",
                 "repo": "DTL",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13883,
+                "stars": 13887,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T05:39:18.946Z",
+    "last_updated": "2026-10-30T05:38:41.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
