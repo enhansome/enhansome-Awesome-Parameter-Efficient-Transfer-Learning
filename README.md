@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,952 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,602 | 🐛 105 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -264,7 +264,7 @@
 
   *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
 
-  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,237 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,238 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
 
 * **\[1] Visual Prompt Tuning,** ECCV 2022.
 
@@ -276,7 +276,7 @@
 
   *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and others.*
 
-  \[[Paper](https://arxiv.org/abs/2210.03117)]\[[Code](https://github.com/muzairkhattak/multimodal-prompt-learning) ⭐ 824 | 🐛 15 | 🌐 Python | 📅 2023-07-24] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2210.03117)]\[[Code](https://github.com/muzairkhattak/multimodal-prompt-learning) ⭐ 825 | 🐛 15 | 🌐 Python | 📅 2023-07-24] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
 
 * **\[21] Tokenize Anything via Prompting,** Arxiv 2023.
 
@@ -460,7 +460,7 @@
 
   *Chen, Zhe and Duan, Yuchen and Wang, Wenhai and He, Junjun and Lu, Tong and Dai, Jifeng and Qiao, Yu.*
 
-  \[[Paper](https://arxiv.org/abs/2205.08534)]\[[Code](https://github.com/czczup/ViT-Adapter) ⭐ 1,508 | 🐛 83 | 🌐 Python | 📅 2025-06-03] ![](https://img.shields.io/badge/ViT_Adapter-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2205.08534)]\[[Code](https://github.com/czczup/ViT-Adapter) ⭐ 1,509 | 🐛 83 | 🌐 Python | 📅 2025-06-03] ![](https://img.shields.io/badge/ViT_Adapter-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param_Efficient-orange)
 
 * **\[2] LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning,** NeurIPS 2022.
 
@@ -608,7 +608,7 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,887 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,890 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

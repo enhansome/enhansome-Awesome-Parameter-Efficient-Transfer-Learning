@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2237,
+                "stars": 2238,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -490,7 +490,7 @@
                 "open_issues": 15,
                 "owner": "muzairkhattak",
                 "repo": "multimodal-prompt-learning",
-                "stars": 824,
+                "stars": 825,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -917,7 +917,7 @@
                 "open_issues": 83,
                 "owner": "czczup",
                 "repo": "ViT-Adapter",
-                "stars": 1508,
+                "stars": 1509,
                 "topics": [
                   "adapter",
                   "object-detection",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13887,
+                "stars": 13890,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T05:38:41.812Z",
+    "last_updated": "2026-10-31T05:29:08.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
