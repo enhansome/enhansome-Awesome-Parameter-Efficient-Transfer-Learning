@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2238,
+                "stars": 2239,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T05:29:08.482Z",
+    "last_updated": "2026-11-01T05:54:17.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
