@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "TencentARC",
                 "repo": "T2I-Adapter",
-                "stars": 3795,
+                "stars": 3794,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -917,7 +917,7 @@
                 "open_issues": 83,
                 "owner": "czczup",
                 "repo": "ViT-Adapter",
-                "stars": 1509,
+                "stars": 1510,
                 "topics": [
                   "adapter",
                   "object-detection",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13890,
+                "stars": 13894,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T05:54:17.364Z",
+    "last_updated": "2026-11-02T05:54:06.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
@@ -1545,10 +1545,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-12-10T09:08:55Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "synbol",
       "repo": "Awesome-Parameter-Efficient-Transfer-Learning",
-      "stars": 588,
+      "stars": 589,
       "topics": [
         "awesome-list",
         "computer-vision",
