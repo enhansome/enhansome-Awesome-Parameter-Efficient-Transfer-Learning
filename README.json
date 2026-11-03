@@ -332,7 +332,7 @@
                 "open_issues": 1,
                 "owner": "liuting20",
                 "repo": "Sparse-Tuning",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2239,
+                "stars": 2240,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -511,7 +511,7 @@
                 "open_issues": 12,
                 "owner": "baaivision",
                 "repo": "tokenize-anything",
-                "stars": 600,
+                "stars": 602,
                 "topics": [
                   "foundation-models",
                   "multimodal",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13894,
+                "stars": 13896,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T05:54:06.623Z",
+    "last_updated": "2026-11-03T06:39:20.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
