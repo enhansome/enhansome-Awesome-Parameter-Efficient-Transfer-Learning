@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 529,824 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,480 | 🐛 103 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -118,7 +118,7 @@
 
   *Karimi Mahabadi, Rabeeh and Henderson, James and Ruder, Sebastian.*
 
-  \[[Paper](https://arxiv.org/abs/2106.04647)]\[[Code](https://github.com/rabeehk/compacter) ⭐ 131 | 🐛 3 | 🌐 Python | 📅 2022-08-18] ![](https://img.shields.io/badge/COMPACTER-blue) ![](https://img.shields.io/badge/Adapter_Optimization-orange)
+  \[[Paper](https://arxiv.org/abs/2106.04647)]\[[Code](https://github.com/rabeehk/compacter) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2022-08-18] ![](https://img.shields.io/badge/COMPACTER-blue) ![](https://img.shields.io/badge/Adapter_Optimization-orange)
 
 * **\[23] AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models,** Arxiv 2023.
 
@@ -276,7 +276,7 @@
 
   *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and others.*
 
-  \[[Paper](https://arxiv.org/abs/2210.03117)]\[[Code](https://github.com/muzairkhattak/multimodal-prompt-learning) ⭐ 825 | 🐛 15 | 🌐 Python | 📅 2023-07-24] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2210.03117)]\[[Code](https://github.com/muzairkhattak/multimodal-prompt-learning) ⭐ 827 | 🐛 15 | 🌐 Python | 📅 2023-07-24] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
 
 * **\[21] Tokenize Anything via Prompting,** Arxiv 2023.
 
@@ -472,7 +472,7 @@
 
   *Fu, Minghao and Zhu, Ke and Wu, Jianxin.*
 
-  \[[Paper](https://arxiv.org/abs/2312.07856)]\[[Code](https://github.com/heekhero/DTL) ⭐ 113 | 🐛 1 | 🌐 Python | 📅 2025-07-15] ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2312.07856)]\[[Code](https://github.com/heekhero/DTL) ⭐ 112 | 🐛 1 | 🌐 Python | 📅 2025-07-15] ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
 
 * **\[8] Ladder Fine-tuning approach for SAM integrating complementary network,** Arxiv 2023.
 
@@ -608,7 +608,7 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,896 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,901 | 🐛 114 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

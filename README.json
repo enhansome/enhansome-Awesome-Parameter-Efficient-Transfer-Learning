@@ -199,7 +199,7 @@
                 "open_issues": 3,
                 "owner": "rabeehk",
                 "repo": "compacter",
-                "stars": 131,
+                "stars": 132,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -490,7 +490,7 @@
                 "open_issues": 15,
                 "owner": "muzairkhattak",
                 "repo": "multimodal-prompt-learning",
-                "stars": 825,
+                "stars": 827,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -964,7 +964,7 @@
                 "open_issues": 1,
                 "owner": "heekhero",
                 "repo": "DTL",
-                "stars": 113,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13896,
+                "stars": 13901,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T06:39:20.001Z",
+    "last_updated": "2026-11-04T06:06:18.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
@@ -1548,7 +1548,7 @@
       "open_issues": 15,
       "owner": "synbol",
       "repo": "Awesome-Parameter-Efficient-Transfer-Learning",
-      "stars": 589,
+      "stars": 588,
       "topics": [
         "awesome-list",
         "computer-vision",
