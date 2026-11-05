@@ -170,7 +170,7 @@
                 "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "ETRIS",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2240,
+                "stars": 2241,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -469,7 +469,7 @@
                 "open_issues": 29,
                 "owner": "KMnP",
                 "repo": "vpt",
-                "stars": 1247,
+                "stars": 1246,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -558,7 +558,7 @@
                 "open_issues": 13,
                 "owner": "NiFangBaAGe",
                 "repo": "Explicit-Visual-Prompt",
-                "stars": 232,
+                "stars": 233,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13901,
+                "stars": 13905,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T06:06:18.295Z",
+    "last_updated": "2026-11-05T06:35:53.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
