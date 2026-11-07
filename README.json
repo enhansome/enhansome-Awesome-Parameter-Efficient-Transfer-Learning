@@ -917,7 +917,7 @@
                 "open_issues": 83,
                 "owner": "czczup",
                 "repo": "ViT-Adapter",
-                "stars": 1511,
+                "stars": 1512,
                 "topics": [
                   "adapter",
                   "object-detection",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13907,
+                "stars": 13908,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T06:30:25.197Z",
+    "last_updated": "2026-11-07T05:50:55.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
