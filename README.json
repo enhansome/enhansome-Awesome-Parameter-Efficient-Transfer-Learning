@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2241,
+                "stars": 2240,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13908,
+                "stars": 13911,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1450,7 +1450,7 @@
                 "open_issues": 7,
                 "owner": "jxhe",
                 "repo": "unify-parameter-efficient-tuning",
-                "stars": 540,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T05:50:55.282Z",
+    "last_updated": "2026-11-08T05:53:36.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
@@ -1545,7 +1545,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-12-10T09:08:55Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "synbol",
       "repo": "Awesome-Parameter-Efficient-Transfer-Learning",
       "stars": 589,
