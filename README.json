@@ -621,7 +621,7 @@
                 "open_issues": 2,
                 "owner": "ChengHan111",
                 "repo": "E2VPT",
-                "stars": 73,
+                "stars": 74,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -707,7 +707,7 @@
                 "open_issues": 0,
                 "owner": "fanrena",
                 "repo": "DPT",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -964,7 +964,7 @@
                 "open_issues": 1,
                 "owner": "heekhero",
                 "repo": "DTL",
-                "stars": 112,
+                "stars": 113,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1321,7 +1321,7 @@
                 "open_issues": 10,
                 "owner": "UCSB-AI",
                 "repo": "PEViT",
-                "stars": 106,
+                "stars": 107,
                 "topics": [
                   "fine-tuning",
                   "image-classification",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T06:12:31.443Z",
+    "last_updated": "2026-11-10T07:08:51.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",

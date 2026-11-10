@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,010 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,427 | 🐛 103 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -312,7 +312,7 @@
 
   *Cheng, Han and Qifan, Wang and Yiming, Cui and Zhiwen, Cao and Wenguan, Wang and Siyuan, Qi and Dongfang, Liu*
 
-  \[[Paper](https://arxiv.org/abs/2307.13770)]\[[Code](https://github.com/ChengHan111/E2VPT) ⭐ 73 | 🐛 2 | 🌐 Python | 📅 2024-01-19] ![](https://img.shields.io/badge/E2VPT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
+  \[[Paper](https://arxiv.org/abs/2307.13770)]\[[Code](https://github.com/ChengHan111/E2VPT) ⭐ 74 | 🐛 2 | 🌐 Python | 📅 2024-01-19] ![](https://img.shields.io/badge/E2VPT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 * **\[24] Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Tasks,** NeurIPS 2023.
 
@@ -336,7 +336,7 @@
 
   *Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and others.*
 
-  \[[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)]\[[Code](https://github.com/fanrena/DPT) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2023-07-18] ![](https://img.shields.io/badge/DPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
+  \[[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)]\[[Code](https://github.com/fanrena/DPT) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2023-07-18] ![](https://img.shields.io/badge/DPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
 
 * **\[27] DGL: Dynamic Global-Local Prompt Tuning for Text-Video Retrieval,** AAAI 2024.
 
@@ -472,7 +472,7 @@
 
   *Fu, Minghao and Zhu, Ke and Wu, Jianxin.*
 
-  \[[Paper](https://arxiv.org/abs/2312.07856)]\[[Code](https://github.com/heekhero/DTL) ⭐ 112 | 🐛 1 | 🌐 Python | 📅 2025-07-15] ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2312.07856)]\[[Code](https://github.com/heekhero/DTL) ⭐ 113 | 🐛 1 | 🌐 Python | 📅 2025-07-15] ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
 
 * **\[8] Ladder Fine-tuning approach for SAM integrating complementary network,** Arxiv 2023.
 
@@ -632,7 +632,7 @@
 
   *He, Xuehai and Li, Chunyuan and Zhang, Pengchuan and Yang, Jianwei and Wang, Xin Eric.*
 
-  \[[Paper](https://arxiv.org/abs/2203.16329)]\[[Code](https://github.com/eric-ai-lab/PEViT) ⭐ 106 | 🐛 10 | 🌐 Python | 📅 2023-08-07] ![](https://img.shields.io/badge/KAdaptation-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/abs/2203.16329)]\[[Code](https://github.com/eric-ai-lab/PEViT) ⭐ 107 | 🐛 10 | 🌐 Python | 📅 2023-08-07] ![](https://img.shields.io/badge/KAdaptation-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[12]PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning,** CVPR 2025.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
