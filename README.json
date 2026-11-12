@@ -144,7 +144,7 @@
                 "open_issues": 2,
                 "owner": "LMD0311",
                 "repo": "DAPT",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "3d-point-clouds",
                   "cvpr2024",
@@ -469,7 +469,7 @@
                 "open_issues": 29,
                 "owner": "KMnP",
                 "repo": "vpt",
-                "stars": 1246,
+                "stars": 1245,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13913,
+                "stars": 13918,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T06:01:53.054Z",
+    "last_updated": "2026-11-12T07:02:09.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
