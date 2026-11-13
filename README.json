@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "TencentARC",
                 "repo": "T2I-Adapter",
-                "stars": 3794,
+                "stars": 3793,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -374,7 +374,7 @@
                 "open_issues": 0,
                 "owner": "dragonlzm",
                 "repo": "PAVE",
-                "stars": 28,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -943,7 +943,7 @@
                 "open_issues": 6,
                 "owner": "ylsung",
                 "repo": "Ladder-Side-Tuning",
-                "stars": 241,
+                "stars": 242,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13918,
+                "stars": 13921,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:02:09.742Z",
+    "last_updated": "2026-11-13T06:32:01.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
