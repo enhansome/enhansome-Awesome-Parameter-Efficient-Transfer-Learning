@@ -170,7 +170,7 @@
                 "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "ETRIS",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1218,10 +1218,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-12-17T03:55:52Z",
-                "open_issues": 114,
+                "open_issues": 115,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13923,
+                "stars": 13924,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1253,7 +1253,7 @@
                 "open_issues": 10,
                 "owner": "dongzelian",
                 "repo": "SSF",
-                "stars": 200,
+                "stars": 201,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T06:17:47.762Z",
+    "last_updated": "2026-11-16T06:16:46.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
