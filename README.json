@@ -728,7 +728,7 @@
                 "open_issues": 1,
                 "owner": "knightyxp",
                 "repo": "DGL",
-                "stars": 49,
+                "stars": 48,
                 "topics": [
                   "cross-modal-learning",
                   "cross-modal-retrieval",
@@ -1221,7 +1221,7 @@
                 "open_issues": 115,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13928,
+                "stars": 13930,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T07:47:53.176Z",
+    "last_updated": "2026-11-18T07:16:03.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
