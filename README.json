@@ -558,7 +558,7 @@
                 "open_issues": 13,
                 "owner": "NiFangBaAGe",
                 "repo": "Explicit-Visual-Prompt",
-                "stars": 233,
+                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 115,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13930,
+                "stars": 13931,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T07:16:03.059Z",
+    "last_updated": "2026-11-19T07:15:13.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
