@@ -21,7 +21,7 @@
                 "open_issues": 96,
                 "owner": "TencentARC",
                 "repo": "T2I-Adapter",
-                "stars": 3793,
+                "stars": 3792,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -444,7 +444,7 @@
                 "open_issues": 65,
                 "owner": "KaiyangZhou",
                 "repo": "CoOp",
-                "stars": 2241,
+                "stars": 2240,
                 "topics": [
                   "foundation-models",
                   "multimodal-learning",
@@ -558,7 +558,7 @@
                 "open_issues": 13,
                 "owner": "NiFangBaAGe",
                 "repo": "Explicit-Visual-Prompt",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -917,7 +917,7 @@
                 "open_issues": 83,
                 "owner": "czczup",
                 "repo": "ViT-Adapter",
-                "stars": 1512,
+                "stars": 1511,
                 "topics": [
                   "adapter",
                   "object-detection",
@@ -943,7 +943,7 @@
                 "open_issues": 6,
                 "owner": "ylsung",
                 "repo": "Ladder-Side-Tuning",
-                "stars": 243,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1221,7 +1221,7 @@
                 "open_issues": 115,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13931,
+                "stars": 13930,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:15:13.020Z",
+    "last_updated": "2026-11-20T07:03:45.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
@@ -1548,7 +1548,7 @@
       "open_issues": 16,
       "owner": "synbol",
       "repo": "Awesome-Parameter-Efficient-Transfer-Learning",
-      "stars": 592,
+      "stars": 591,
       "topics": [
         "awesome-list",
         "computer-vision",

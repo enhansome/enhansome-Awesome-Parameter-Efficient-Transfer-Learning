@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,161 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,641 | 🐛 103 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -76,7 +76,7 @@
 
   *Mou, Chong and Wang, Xintao and Xie, Liangbin and Zhang, Jian and Qi, Zhongang and others.*
 
-  \[[Paper](https://arxiv.org/abs/2302.08453)]\[[Code](https://github.com/TencentARC/T2I-Adapter) ⭐ 3,793 | 🐛 96 | 🌐 Python | 📅 2024-06-21] ![](https://img.shields.io/badge/T2I_Adapter-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
+  \[[Paper](https://arxiv.org/abs/2302.08453)]\[[Code](https://github.com/TencentARC/T2I-Adapter) ⭐ 3,792 | 🐛 96 | 🌐 Python | 📅 2024-06-21] ![](https://img.shields.io/badge/T2I_Adapter-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 * **\[1] AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
 
@@ -264,7 +264,7 @@
 
   *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
 
-  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,241 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
+  \[[Paper](https://arxiv.org/abs/2109.01134)]\[[Code](https://github.com/KaiyangZhou/CoOp) ⭐ 2,240 | 🐛 65 | 🌐 Python | 📅 2024-05-20] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
 
 * **\[1] Visual Prompt Tuning,** ECCV 2022.
 
@@ -294,7 +294,7 @@
 
   *Liu, Weihuang and Shen, Xi and Pun, Chi-Man and Cun, Xiaodong.*
 
-  \[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.html)]\[[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) ⭐ 234 | 🐛 13 | 🌐 Python | 📅 2025-10-22] ![](https://img.shields.io/badge/EVP-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
+  \[[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.html)]\[[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) ⭐ 235 | 🐛 13 | 🌐 Python | 📅 2025-10-22] ![](https://img.shields.io/badge/EVP-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
 
 * **\[11] P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting,** NeurIPS 2022.
 
@@ -460,13 +460,13 @@
 
   *Chen, Zhe and Duan, Yuchen and Wang, Wenhai and He, Junjun and Lu, Tong and Dai, Jifeng and Qiao, Yu.*
 
-  \[[Paper](https://arxiv.org/abs/2205.08534)]\[[Code](https://github.com/czczup/ViT-Adapter) ⭐ 1,512 | 🐛 83 | 🌐 Python | 📅 2025-06-03] ![](https://img.shields.io/badge/ViT_Adapter-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2205.08534)]\[[Code](https://github.com/czczup/ViT-Adapter) ⭐ 1,511 | 🐛 83 | 🌐 Python | 📅 2025-06-03] ![](https://img.shields.io/badge/ViT_Adapter-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param_Efficient-orange)
 
 * **\[2] LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning,** NeurIPS 2022.
 
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
-  \[[Paper](https://arxiv.org/abs/2206.06522)]\[[Code](https://github.com/ylsung/Ladder-Side-Tuning) ⭐ 243 | 🐛 6 | 🌐 Python | 📅 2023-01-20] ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2206.06522)]\[[Code](https://github.com/ylsung/Ladder-Side-Tuning) ⭐ 244 | 🐛 6 | 🌐 Python | 📅 2023-01-20] ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
 
 * **\[6] DTL: Disentangled Transfer Learning for Visual Recognition,** AAAI 2024.
 
@@ -608,7 +608,7 @@
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,931 | 🐛 115 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+  \[[Paper](https://arxiv.org/pdf/2106.09685.pdf)]\[[Code](https://github.com/microsoft/LoRA) ⭐ 13,930 | 🐛 115 | 🌐 Python | 📅 2024-12-17] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 * **\[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
