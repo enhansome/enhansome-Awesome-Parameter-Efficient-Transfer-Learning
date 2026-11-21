@@ -11,7 +11,7 @@
 ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow\&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,641 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,140 | 🐛 103 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) ⭐ 118 | 🐛 3 | 🌐 CSS | 📅 2022-03-21
 
 </p>
@@ -112,7 +112,7 @@
 
   *Zunnan Xu, Zhihong Chen, Yong Zhang, Yibing Song, Xiang Wan, Guanbin Li.*
 
-  \[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Bridging_Vision_and_Language_Encoders_Parameter-Efficient_Tuning_for_Referring_Image_ICCV_2023_paper.pdf)]\[[Code](https://github.com/kkakkkka/ETRIS) ⭐ 151 | 🐛 0 | 🌐 Python | 📅 2026-10-10]
+  \[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Bridging_Vision_and_Language_Encoders_Parameter-Efficient_Tuning_for_Referring_Image_ICCV_2023_paper.pdf)]\[[Code](https://github.com/kkakkkka/ETRIS) ⭐ 152 | 🐛 0 | 🌐 Python | 📅 2026-10-10]
 
 * **\[12] Compacter: Efficient Low-Rank Hypercomplex Adapter Layer,** NeurIPS 2021.
 
@@ -270,7 +270,7 @@
 
   *Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim.*
 
-  \[[Paper](https://arxiv.org/abs/2203.12119)]\[[Code](https://github.com/kmnp/vpt) ⭐ 1,245 | 🐛 29 | 🌐 Python | 📅 2023-09-02] ![](https://img.shields.io/badge/VPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
+  \[[Paper](https://arxiv.org/abs/2203.12119)]\[[Code](https://github.com/kmnp/vpt) ⭐ 1,246 | 🐛 29 | 🌐 Python | 📅 2023-09-02] ![](https://img.shields.io/badge/VPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 * **\[17] MaPLe: Multi-modal Prompt Learning,** CVPR 2023.
 
@@ -466,7 +466,7 @@
 
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
-  \[[Paper](https://arxiv.org/abs/2206.06522)]\[[Code](https://github.com/ylsung/Ladder-Side-Tuning) ⭐ 244 | 🐛 6 | 🌐 Python | 📅 2023-01-20] ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
+  \[[Paper](https://arxiv.org/abs/2206.06522)]\[[Code](https://github.com/ylsung/Ladder-Side-Tuning) ⭐ 245 | 🐛 6 | 🌐 Python | 📅 2023-01-20] ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Param\&Memory_Efficient-orange)
 
 * **\[6] DTL: Disentangled Transfer Learning for Visual Recognition,** AAAI 2024.
 
@@ -762,4 +762,4 @@ If you find our survey and repository useful for your research, please cite it b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

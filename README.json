@@ -170,7 +170,7 @@
                 "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "ETRIS",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -469,7 +469,7 @@
                 "open_issues": 29,
                 "owner": "KMnP",
                 "repo": "vpt",
-                "stars": 1245,
+                "stars": 1246,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -943,7 +943,7 @@
                 "open_issues": 6,
                 "owner": "ylsung",
                 "repo": "Ladder-Side-Tuning",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:52.872Z"
@@ -1536,7 +1536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:03:45.588Z",
+    "last_updated": "2026-11-21T06:57:23.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome parameter-efficient fine-tuning resources. ",
